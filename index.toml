@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "c791bc8aa016b6de6b311baaef5a98acb54782b7a501d707799ae5e7888922ed"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "b98fbea3a8b2a73d0cc56f6ea27e70d8ec8f30dbdf3932f3678a0e0fd5a3e7bf"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c007e2562bd557760bf5ac0dfb773cec6c3b601a450e24fbe7f3bc2c23982fb6"
 metafile = true
