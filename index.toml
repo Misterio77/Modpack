@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "f38d9ea621b2edadf0fb171a4eac7cccb556fda0ee6dba8738f55d92ec737c22"
+
+[[files]]
+file = "README.md"
+hash = "f39da27e4f7100c7e7076e3487f42e854e1ef82a0315f5fa7795766ad6721a7e"
+
+[[files]]
 file = "default.nix"
 hash = "b7dc32b934ad8a33c8bb618a61d100bc114eaab318897aa74347fe449fdc6dc5"
 
@@ -70,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
 metafile = true
 
 [[files]]
