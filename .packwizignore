@@ -1,0 +1,6 @@
+*.nix
+*.zip
+*.mrpack
+*.lock
+LICENSE
+README.md
