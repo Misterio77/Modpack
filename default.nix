@@ -2,7 +2,7 @@
   pname = "modpack";
   version = "0.1.0";
   src = ./.;
-  buildInputs = [ packwiz ];
+  nativeBuildInputs = [ packwiz ];
   buildPhase = ''
   '';
   installPhase = ''
