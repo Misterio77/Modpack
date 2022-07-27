@@ -1,0 +1,23 @@
+hash-format = "sha256"
+
+[[files]]
+file = "default.nix"
+hash = "b7dc32b934ad8a33c8bb618a61d100bc114eaab318897aa74347fe449fdc6dc5"
+
+[[files]]
+file = "flake.lock"
+hash = "7a2cdd4bf398d1d92dcb64a97ebbfa4290ee0702be97840716af7bf3f98b398a"
+
+[[files]]
+file = "flake.nix"
+hash = "4b127639aa85eb205c5ffa13d7af394dbf94c98cfc8b7e3a61c18de2b9026254"
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "a4b5ef9c4149727d39df9a6c497e5c39d943fe65478ea794d89e5968de47e8a2"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "bec97cef087562af7a94221cc97acd4abe932a80d8ec979b73e3950ab9006806"
+metafile = true
