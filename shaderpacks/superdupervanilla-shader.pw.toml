@@ -1,0 +1,9 @@
+name = "Super Duper Vanilla Shaderpack"
+filename = "Super-Duper-Vanilla-1.3.0-beta.3.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Eldeston/Super-Duper-Vanilla/archive/refs/tags/v1.3.0-beta.3.zip"
+
+hash-format = "sha256"
+hash = "2f7969207fd8e52c7ff14c7832f7c8b5cbd2822879c35570764c6832c34528b4"

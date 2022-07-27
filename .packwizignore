@@ -1,6 +1,6 @@
-*.nix
-*.zip
-*.mrpack
-*.lock
+/*.nix
+/*.zip
+/*.mrpack
+/*.lock
 LICENSE
 README.md

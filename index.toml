@@ -314,11 +314,6 @@ hash = "e5e9697602c898198e19b6066305491623972d3c93855d5c0b56551a2c40039b"
 metafile = true
 
 [[files]]
-file = "mods/mcwifipnp.pw.toml"
-hash = "c94ba62d4826b6828e618ac19992e8d3a8b30b2eab80d6449a2cc023c0b076dc"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "c245e4e6896f1702f29aaf0bfef3cbce1d82b4f0fb8d44a526690f4d965f75e0"
 metafile = true
@@ -461,4 +456,9 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "98c8ffafe56c38e04da80c8c061e1f1dfc1212a53f3b0c90d7f6b3381c961e95"
+metafile = true
+
+[[files]]
+file = "shaderpacks/superdupervanilla-shader.pw.toml"
+hash = "7502a5b4a472a6e4f38615c18a23fd209d400f9cc940f2b686b48ead6e70a7e8"
 metafile = true
