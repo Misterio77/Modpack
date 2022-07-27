@@ -1,0 +1,13 @@
+name = "Kappa"
+filename = "kappa-3.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2wsNAbi3/versions/3.0.2/kappa-3.0.2.jar"
+hash-format = "sha1"
+hash = "1b7e93b6018d6deb1ce7d99893c8d03c0c0aa408"
+
+[update]
+[update.modrinth]
+mod-id = "2wsNAbi3"
+version = "u2AvkHZp"

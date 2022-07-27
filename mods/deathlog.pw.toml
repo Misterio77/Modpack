@@ -1,0 +1,13 @@
+name = "DeathLog"
+filename = "deathlog-0.2.9+1.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TPAYeAOc/versions/0.2.9+1.18/deathlog-0.2.9%2B1.18.jar"
+hash-format = "sha1"
+hash = "b1ef640f1b7e4831f072c60f4b416090eef12342"
+
+[update]
+[update.modrinth]
+mod-id = "TPAYeAOc"
+version = "eO6uUonB"
