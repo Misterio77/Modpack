@@ -11,3 +11,6 @@ hash = "b63489a74158f6f1940a83a42a1effa9a0bb7a47"
 [update.modrinth]
 mod-id = "JuksLGBQ"
 version = "KWUgM1Pm"
+[update.curseforge]
+file-id = 3807066
+project-id = 619986

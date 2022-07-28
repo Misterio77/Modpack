@@ -11,3 +11,6 @@ hash = "6bb3af541a9cf492d84a2ba18495a3e0392eb87c"
 [update.modrinth]
 mod-id = "T8MMXTpr"
 version = "X1y31oBo"
+[update.curseforge]
+file-id = 3543360
+project-id = 448311

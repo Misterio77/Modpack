@@ -11,3 +11,6 @@ hash = "1073b1e722ea629ef72133cb9968156a0d8beeca"
 [update.modrinth]
 mod-id = "PRN43VSY"
 version = "GYUKcduK"
+[update.curseforge]
+file-id = 3844728
+project-id = 533006

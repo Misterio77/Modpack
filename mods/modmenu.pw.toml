@@ -11,3 +11,6 @@ hash = "463fecec40447519a9a32c1c178a962799583add"
 [update.modrinth]
 mod-id = "mOgUt4GM"
 version = "cx9D94fU"
+[update.curseforge]
+file-id = 3850113
+project-id = 308702

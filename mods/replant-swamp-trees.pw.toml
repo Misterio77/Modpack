@@ -11,3 +11,6 @@ hash = "8bf1170cf4f96825850db6aad24a6b2c00649661"
 [update.modrinth]
 mod-id = "TnfgLqW5"
 version = "MdrUDAA5"
+[update.curseforge]
+file-id = 3597231
+project-id = 513487

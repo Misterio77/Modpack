@@ -11,3 +11,6 @@ hash = "544eda62266a8c6f2a4c41a97e2aa36423817094"
 [update.modrinth]
 mod-id = "RG50cUrX"
 version = "ItKxI7jS"
+[update.curseforge]
+file-id = 3673260
+project-id = 496913

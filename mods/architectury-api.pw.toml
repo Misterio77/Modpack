@@ -11,3 +11,6 @@ hash = "937f4278cf4cdb6f353cbbb53870b366031e3c25"
 [update.modrinth]
 mod-id = "lhGA9TYQ"
 version = "TfrGiL2j"
+[update.curseforge]
+file-id = 3893734
+project-id = 419699

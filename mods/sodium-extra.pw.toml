@@ -11,3 +11,6 @@ hash = "39e2de8e94b9dd2f61d742d660d6888be0ec2296"
 [update.modrinth]
 mod-id = "PtjYWJkn"
 version = "4hASygiF"
+[update.curseforge]
+file-id = 3894485
+project-id = 447673

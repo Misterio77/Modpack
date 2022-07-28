@@ -11,3 +11,6 @@ hash = "d0d9cf3c28cbf7ae43f862575533608b996b6b97"
 [update.modrinth]
 mod-id = "sDpRsbas"
 version = "WVTRGGaX"
+[update.curseforge]
+file-id = 3634286
+project-id = 575464

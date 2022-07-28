@@ -11,3 +11,6 @@ hash = "0643830cab952fc96872702e681b863b550c8530"
 [update.modrinth]
 mod-id = "WwbubTsV"
 version = "dStXfyg3"
+[update.curseforge]
+file-id = 2934596
+project-id = 374274

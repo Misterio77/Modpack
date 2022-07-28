@@ -11,3 +11,6 @@ hash = "3aec8adb006bba66ca3570a512cde6e0f696c5a7"
 [update.modrinth]
 mod-id = "Bta0Pt47"
 version = "fsavxtiv"
+[update.curseforge]
+file-id = 3687770
+project-id = 357256

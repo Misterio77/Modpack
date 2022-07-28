@@ -11,3 +11,6 @@ hash = "4b8568ff73b81e4c9c3b23653e2339c86c38e7be"
 [update.modrinth]
 mod-id = "bpii4Xsa"
 version = "rzkLIRCX"
+[update.curseforge]
+file-id = 3829808
+project-id = 378696

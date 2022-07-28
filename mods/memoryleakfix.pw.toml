@@ -11,3 +11,6 @@ hash = "96d9add8712f247d9770130ee75769d9be538452"
 [update.modrinth]
 mod-id = "NRjRiSSD"
 version = "uvitUbpR"
+[update.curseforge]
+file-id = 3885684
+project-id = 627566

@@ -11,3 +11,6 @@ hash = "a0b176ff5697885902d5b6b2daa25e032debf666"
 [update.modrinth]
 mod-id = "g8w1NapE"
 version = "MO2YxWF1"
+[update.curseforge]
+file-id = 3782788
+project-id = 390114
