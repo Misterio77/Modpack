@@ -479,11 +479,6 @@ hash = "bbfa60e6de7bde3e0f0df6c5d0df06ec98278ad7fc6bc29784afdd093c84ec24"
 metafile = true
 
 [[files]]
-file = "mods/the-corners.pw.toml"
-hash = "f8dc1bcca26df29f6d88a12678628fc08b5fab5ac2b4adb9be0af58e39bfea32"
-metafile = true
-
-[[files]]
 file = "mods/things.pw.toml"
 hash = "226e7a69fd9f5701bec8f71f1fd90d7f5d58f63052e0c6089388d892071f3365"
 metafile = true
