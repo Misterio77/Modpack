@@ -139,11 +139,6 @@ hash = "a4b5ef9c4149727d39df9a6c497e5c39d943fe65478ea794d89e5968de47e8a2"
 metafile = true
 
 [[files]]
-file = "mods/createplus.pw.toml"
-hash = "84a26eada70c919e518bdc9f51f1df2b5283d98b6b1acd1d0ae33f162b5e26df"
-metafile = true
-
-[[files]]
 file = "mods/culinaire.pw.toml"
 hash = "2729c49a56c9b94101d7baeb853945ae660cc1e6691abc6c402eef283901286c"
 metafile = true
