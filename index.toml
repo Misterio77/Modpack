@@ -242,6 +242,11 @@ hash = "252d5c05982577af64f7c7447f6ea962f10fcd4b71e13b635db960962213008e"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "ea8d176df14a97c171d50027574a9f6d76c849c255710328378a1c8aff417de4"
+metafile = true
+
+[[files]]
 file = "mods/endium.pw.toml"
 hash = "00f6ea4bcd15c90136a5bd8ad568cc9b138d6e8e33b5dc0a8ac729b1f282d5de"
 metafile = true
@@ -424,11 +429,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "9af9dced04e748df821afa2ad4172ad3f3dd3b2a7a859dfa4c64d39bc3edd821"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "b116af66435c4f009901995ed26ad92cb0fc40c83aa42c67e6c96792bd6db1b6"
 metafile = true
 
 [[files]]
