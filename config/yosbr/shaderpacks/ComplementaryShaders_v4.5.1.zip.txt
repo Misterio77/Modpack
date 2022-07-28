@@ -1,0 +1,4 @@
+# Corrigir problemas com skybox do Eden Ring
+ROUND_SUN_MOON=false
+SKYBOX_BRIGHTNESS=1.25
+VANILLA_SKYBOX=true

@@ -1,0 +1,13 @@
+name = "Complementary Shaders v4"
+filename = "ComplementaryShaders_v4.5.1.zip"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3856/409/ComplementaryShaders_v4.5.1.zip"
+hash-format = "sha1"
+hash = "92a5b20fe8780e76b2a1f822f38e2a34af3f4bae"
+
+[update]
+[update.curseforge]
+file-id = 3856409
+project-id = 385587
