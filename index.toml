@@ -169,6 +169,11 @@ hash = "ac575c34bba8de95cbf3399a70675b1325fe17e564bf160103f7fcac9af1e744"
 metafile = true
 
 [[files]]
+file = "mods/croptopia.pw.toml"
+hash = "27f1aa0e5ae570d3ae60404d106738a04ea73d019e973c7d65d463d10ba558c8"
+metafile = true
+
+[[files]]
 file = "mods/culinaire.pw.toml"
 hash = "66e922690d0c78f363362ab09867226a008decdc4c1b60029deac03556e997fa"
 metafile = true
