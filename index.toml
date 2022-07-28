@@ -9,8 +9,8 @@ file = "config/yosbr/config/betterf3.json"
 hash = "c791bc8aa016b6de6b311baaef5a98acb54782b7a501d707799ae5e7888922ed"
 
 [[files]]
-file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "b98fbea3a8b2a73d0cc56f6ea27e70d8ec8f30dbdf3932f3678a0e0fd5a3e7bf"
+file = "config/yosbr/config/debugify.json"
+hash = "ec45639f6f7a9577b271004d5ca655ba9dce9b70c8de1e3087f94fb0ca9c95d6"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryShaders_v4.5.1.zip.txt"
