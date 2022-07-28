@@ -1,0 +1,13 @@
+name = "Elytra Slot (Fabric)"
+filename = "elytratrinket-fabric-3.0.0-1.18.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70a2317527da7712416f17207ce4a21c272f7a3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3567467
+project-id = 397903

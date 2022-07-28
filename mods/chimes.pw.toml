@@ -1,0 +1,13 @@
+name = "Chimes"
+filename = "Chimes-1.1.1-1.18.2+[Fabric].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bad2b378eaff01d8930cafe58f7d4f5048abcb2f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3790371
+project-id = 350464
