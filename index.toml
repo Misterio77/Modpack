@@ -114,11 +114,6 @@ hash = "51f1daaf6679c471a68e34bf8a1add71d5cab17cbeb28d0be53eef0c668c2fe1"
 metafile = true
 
 [[files]]
-file = "mods/buried-barrels.pw.toml"
-hash = "753c3f17122bbbb9d8603d4d5ef481c617c108bebf7c1ea6ae14e9f04b659da0"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "78aa99b166cdeeb4b54b266c50f8056b1eaa246890ca2bd247577d383f1accb4"
 metafile = true
