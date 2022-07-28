@@ -1,0 +1,12 @@
+/** EMI Config */
+
+#ui {
+	/**
+	 * Whether to add mod name to item tooltips
+	 */
+	append-item-mod-id: false;
+	/**
+	 * The unit to display fluids as.
+	 */
+	fluid-unit: millibuckets;
+}

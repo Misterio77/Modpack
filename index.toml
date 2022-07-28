@@ -13,8 +13,12 @@ file = "config/yosbr/config/debugify.json"
 hash = "ec45639f6f7a9577b271004d5ca655ba9dce9b70c8de1e3087f94fb0ca9c95d6"
 
 [[files]]
+file = "config/yosbr/config/emi.css"
+hash = "84f5264613df44d05b493194fdcbc71fe75809598e78aa6bb407ae42c1159bc1"
+
+[[files]]
 file = "config/yosbr/config/illuminations.properties"
-hash = "4971b9224dd85613a085dd6cd74d44b3858367c1c03fd4b9f2f885738cab074a"
+hash = "21d3b1f2e32da8d7a72f2d1a75cbbf7b9724bc77031c0f289572c49d2df5dcc0"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"
