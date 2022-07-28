@@ -13,6 +13,10 @@ file = "config/yosbr/config/debugify.json"
 hash = "ec45639f6f7a9577b271004d5ca655ba9dce9b70c8de1e3087f94fb0ca9c95d6"
 
 [[files]]
+file = "config/yosbr/config/illuminations.properties"
+hash = "4971b9224dd85613a085dd6cd74d44b3858367c1c03fd4b9f2f885738cab074a"
+
+[[files]]
 file = "config/yosbr/options.amecsapi.txt"
 hash = "5509f1a3d4aad5bc2f0824d398f9bb987c78fd06a77763c0d931af4fc14a1b40"
 
@@ -202,11 +206,6 @@ metafile = true
 [[files]]
 file = "mods/companion-fabric.pw.toml"
 hash = "f42c56d79c08a664297b7beec3a3648375722604e9e5448b260934a9decd3e17"
-metafile = true
-
-[[files]]
-file = "mods/create-deco.pw.toml"
-hash = "870e7af0bf822108d0b0f39b4e1a3434683638909b207e1b21041f2a06f89955"
 metafile = true
 
 [[files]]
