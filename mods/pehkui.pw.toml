@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "b9c5d1c15e87d4b127ddaad6c85053d342988c09"
-mode = "metadata:curseforge"
+url = "https://edge.forgecdn.net/files/3849/579/Pehkui-3.3.3+1.14.4-1.19.1.jar"
 
 [update]
 [update.curseforge]

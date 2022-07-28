@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "ca251335f69351c5416e97801967b4e3e63aebb2"
-mode = "metadata:curseforge"
+url = "https://edge.forgecdn.net/files/3791/079/clickadv-fabric-2.6.jar"
 
 [update]
 [update.curseforge]

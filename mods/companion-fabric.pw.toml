@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "d313aaceb59ae7fa2c70cfd90b3f40d265cdeaaf"
-mode = "metadata:curseforge"
+url = "https://edge.forgecdn.net/files/3717/806/Companion-1.18.2-fabric-2.0.1.jar"
 
 [update]
 [update.curseforge]

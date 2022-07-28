@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "4b78ff6482e4b39941854ab95184dbde953bafa2"
-mode = "metadata:curseforge"
+url = "https://edge.forgecdn.net/files/3818/011/quartz-elevator-2.1.2+1.18.2.jar"
 
 [update]
 [update.curseforge]

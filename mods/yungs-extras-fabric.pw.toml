@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "ddbb5531fa49d3081a3be8342bb6c707c517c1e9"
-mode = "metadata:curseforge"
+url = "https://edge.forgecdn.net/files/3777/940/YungsExtras-1.18.2-Fabric-2.1.0.jar"
 
 [update]
 [update.curseforge]

@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "26c418a2a947fb98eb8ac07da307f7411142d430"
-mode = "metadata:curseforge"
+url = "https://edge.forgecdn.net/files/3568/536/trinketshulkerboxes-fabric-2.0.1-1.18.1.jar"
 
 [update]
 [update.curseforge]

@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "7d0771cc75aa47a68a23419d99b416ded1a09fe4"
-mode = "metadata:curseforge"
+url = "https://edge.forgecdn.net/files/3796/182/DarkPaintings-Fabric-1.18.2-10.0.3.jar"
 
 [update]
 [update.curseforge]

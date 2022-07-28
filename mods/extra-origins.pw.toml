@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "8e1a14e72fd1b9d6dcdadd561d66f00c8e50ec8f"
-mode = "metadata:curseforge"
+url = "https://edge.forgecdn.net/files/3878/950/extraorigins-1.18-12.jar"
 
 [update]
 [update.curseforge]

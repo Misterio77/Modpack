@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "78e6da51f390c09257b3300ac5d8227eca086961"
-mode = "metadata:curseforge"
+url = "https://edge.forgecdn.net/files/3810/882/createdeco-1.2.7a-fabric-1.18.2.jar"
 
 [update]
 [update.curseforge]
