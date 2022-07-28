@@ -9,10 +9,6 @@ file = "config/roughlyenoughitems/config.json5"
 hash = "b98fbea3a8b2a73d0cc56f6ea27e70d8ec8f30dbdf3932f3678a0e0fd5a3e7bf"
 
 [[files]]
-file = "config/yosbr/iris.properties"
-hash = "2d3b73d073cf60275139eaa21b7782a560be60b2ab38bba9088cfa701712500d"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c007e2562bd557760bf5ac0dfb773cec6c3b601a450e24fbe7f3bc2c23982fb6"
 metafile = true
@@ -465,6 +461,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "40f8b4b7600bd1ab250e65ffe5a685ce94bf78e436c21695b18c314937dc091c"
 metafile = true
 
 [[files]]

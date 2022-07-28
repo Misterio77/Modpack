@@ -1,0 +1,9 @@
+name = "Super Duper Vanilla Shaderpack"
+filename = "ComplementaryReimagined_r1.1.1.zip"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3855/694/ComplementaryReimagined_r1.1.1.zip"
+
+hash-format = "sha256"
+hash = "329606ba016eb7e880c7360bef80b6701e3e0825a90ef14d009b3db89655f792"
