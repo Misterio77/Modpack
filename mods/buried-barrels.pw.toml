@@ -1,0 +1,13 @@
+name = "Buried Barrels"
+filename = "BuriedBarrels-1.18.1-1.0.2-fabric-release-hf.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sDpRsbas/versions/BuriedBarrels-1.18.1-1.0.1-fabric-release/BuriedBarrels-1.18.1-1.0.2-fabric-release-hf.jar"
+hash-format = "sha1"
+hash = "d0d9cf3c28cbf7ae43f862575533608b996b6b97"
+
+[update]
+[update.modrinth]
+mod-id = "sDpRsbas"
+version = "WVTRGGaX"
