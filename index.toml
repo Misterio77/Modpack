@@ -13,6 +13,14 @@ file = "config/yosbr/config/debugify.json"
 hash = "ec45639f6f7a9577b271004d5ca655ba9dce9b70c8de1e3087f94fb0ca9c95d6"
 
 [[files]]
+file = "config/yosbr/options.amecsapi.txt"
+hash = "5509f1a3d4aad5bc2f0824d398f9bb987c78fd06a77763c0d931af4fc14a1b40"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "aeeb4a05b7ec63745c51380fe7223bb3cea3a2b82be6668975b95ebd25c5a717"
+
+[[files]]
 file = "config/yosbr/shaderpacks/ComplementaryShaders_v4.5.1.zip.txt"
 hash = "af178d51b79b69e06c762329b2ba9541d9dfa68b084774e02a8e8eada23cffa8"
 
