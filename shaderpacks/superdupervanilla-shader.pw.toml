@@ -1,9 +1,13 @@
 name = "Super Duper Vanilla Shaderpack"
-filename = "Super-Duper-Vanilla-1.3.0-beta.3.zip"
+filename = "SuperDuperVanilla.zip"
 side = "client"
 
 [download]
-url = "https://github.com/Eldeston/Super-Duper-Vanilla/archive/refs/tags/v1.3.0-beta.3.zip"
+url = "https://edge.forgecdn.net/files/3865/984/SuperDuperVanilla.zip"
+hash-format = "sha1"
+hash = "414c72a8d3cfbba0d1ec06b104f175163710cc78"
 
-hash-format = "sha256"
-hash = "2f7969207fd8e52c7ff14c7832f7c8b5cbd2822879c35570764c6832c34528b4"
+[update]
+[update.curseforge]
+file-id = 3865984
+project-id = 627557
