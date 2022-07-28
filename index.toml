@@ -9,10 +9,6 @@ file = "config/yosbr/config/betterf3.json"
 hash = "c791bc8aa016b6de6b311baaef5a98acb54782b7a501d707799ae5e7888922ed"
 
 [[files]]
-file = "config/yosbr/config/debugify.json"
-hash = "ec45639f6f7a9577b271004d5ca655ba9dce9b70c8de1e3087f94fb0ca9c95d6"
-
-[[files]]
 file = "config/yosbr/config/emi.css"
 hash = "84f5264613df44d05b493194fdcbc71fe75809598e78aa6bb407ae42c1159bc1"
 
@@ -255,11 +251,6 @@ metafile = true
 [[files]]
 file = "mods/deathlog.pw.toml"
 hash = "d2f039e67fbae7bc220ac2e82566bbb49887bb5d76e70df6e9fef59d13eee097"
-metafile = true
-
-[[files]]
-file = "mods/debugify.pw.toml"
-hash = "fc57e3ec4a8ee4469c8426da231507ae4fc2738074665421a5a3cde00f1565ab"
 metafile = true
 
 [[files]]
