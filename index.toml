@@ -522,6 +522,10 @@ hash = "11a8a3942a98d9fdc4bea427e85703387272c80ea66e05cba061fe64e4e07846"
 metafile = true
 
 [[files]]
+file = "shaderpacks/.gitkeep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "shaderpacks/complementary-shaders.pw.toml"
 hash = "bff2756ee32e1bcb1123273cf9566ae30df1be62c6ca0d0d42d80e753524ae79"
 metafile = true
