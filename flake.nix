@@ -6,32 +6,19 @@
     utils.url = "github:numtide/flake-utils";
   };
 
-  outputs = { self, nixpkgs, utils }:
-    {
-      overlays = rec {
-        modpack = _final: prev: {
-          modpack = prev.callPackage ./. { };
+  outputs = { self, nixpkgs, utils }: utils.lib.eachDefaultSystem (system:
+    let
+      inherit (builtins) attrValues;
+      pkgs = import nixpkgs { inherit system; };
+    in
+    rec {
+      devShells = rec {
+        modpack = pkgs.mkShell {
+          name = "modpack";
+          nativeBuildInputs = with pkgs; [ packwiz unzip zip ];
         };
+        default = modpack;
       };
-    } //
-    (utils.lib.eachDefaultSystem (system:
-      let
-        inherit (builtins) attrValues;
-        pkgs = import nixpkgs { inherit system; overlays = attrValues self.overlays; };
-      in
-      rec {
-        packages = rec {
-          inherit (pkgs) modpack;
-          default = modpack;
-        };
-
-        devShells = rec {
-          modpack = pkgs.mkShell {
-            name = "modpack";
-            inputsFrom = [ packages.modpack ];
-          };
-          default = modpack;
-        };
-      }));
+    });
 }
 
