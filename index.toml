@@ -374,11 +374,6 @@ hash = "e5a970c22cef76c15c3c8606ae623bd0f6069b6c1e2501065d5b40cc2bc1a091"
 metafile = true
 
 [[files]]
-file = "mods/notenoughorigins.pw.toml"
-hash = "2bd3e99c54c35be77fb0dfc3a3435340d21fa25f0faced5a6f87009cc35603b9"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "ad69fb8be7ae95ef080b3babeaf24aac96b57caa8c2698fad9d8dbeaaa988ff2"
 metafile = true
@@ -421,11 +416,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "9af9dced04e748df821afa2ad4172ad3f3dd3b2a7a859dfa4c64d39bc3edd821"
-metafile = true
-
-[[files]]
-file = "mods/replant-swamp-trees.pw.toml"
-hash = "e2e5dcd9a1a481b263a8add95fca99734ca86508c3d862355c9cc640491094e7"
 metafile = true
 
 [[files]]
