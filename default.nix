@@ -1,8 +1,8 @@
-{ stdenv, packwiz }: stdenv.mkDerivation {
+{ stdenv, packwiz, zip, unzip }: stdenv.mkDerivation {
   pname = "modpack";
   version = "0.1.0";
   src = ./.;
-  nativeBuildInputs = [ packwiz ];
+  nativeBuildInputs = [ packwiz zip unzip ];
   buildPhase = ''
   '';
   installPhase = ''
