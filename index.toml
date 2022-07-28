@@ -493,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/traverse.pw.toml"
-hash = "cdef26719e9de6958dc06109ef0be33106d9a196c6ea2b9e70ce48ebbaea7b39"
+hash = "dcc52d2a1bacf0b3257e2cc646dda29a176e72002ea7c042a069c04effc46d1a"
 metafile = true
 
 [[files]]
