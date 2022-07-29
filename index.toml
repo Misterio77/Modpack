@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/cosmetic-armor.pw.toml"
-hash = "905aa3e8f9cf6c460df7aaf9e7a1c7947dbb931f36e805ef7442d19dc8967d2d"
+hash = "8a7f9b89033609f0abc0a988db246507464ea566d484362e0ef07941eee7a1d2"
 metafile = true
 
 [[files]]
