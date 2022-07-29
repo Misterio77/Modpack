@@ -79,7 +79,7 @@ key_key.sneak:key.keyboard.left.shift
 key_key.sprint:key.keyboard.left.control
 key_key.left:key.keyboard.a
 key_key.right:key.keyboard.d
-key_key.amecs.toggle_auto_jump:key.keyboard.b
+key_key.amecs.toggle_auto_jump:key.keyboard.unknown
 key_key.back:key.keyboard.s
 key_key.forward:key.keyboard.w
 key_key.attack:key.mouse.left
@@ -138,7 +138,7 @@ key_key.fabrictailor.toggle_skin_gui:key.keyboard.k
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.origins.primary_active:key.keyboard.g
 key_key.origins.secondary_active:key.keyboard.g
-key_key.origins.view_origin:key.keyboard.unknown
+key_key.origins.view_origin:key.keyboard.g
 key_key.things.openenderchest:key.keyboard.y
 key_key.things.place_item:key.keyboard.u
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
