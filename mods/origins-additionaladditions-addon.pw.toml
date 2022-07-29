@@ -1,0 +1,13 @@
+name = "Origins - AdditionalAdditions Addon"
+filename = "origins-additionaladditions-addon-1.18-v1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yQdX6365/versions/1.18-1.1/origins-additionaladditions-addon-1.18-v1.1.jar"
+hash-format = "sha1"
+hash = "62660352b1e730c77267d5acb147c9b21fdcd4f8"
+
+[update]
+[update.modrinth]
+mod-id = "yQdX6365"
+version = "d63HhAGT"

@@ -153,6 +153,11 @@ hash = "78aa99b166cdeeb4b54b266c50f8056b1eaa246890ca2bd247577d383f1accb4"
 metafile = true
 
 [[files]]
+file = "mods/can-i-mine-this-block.pw.toml"
+hash = "24197778420428d9a3a096fcc5a512ce583f6559cddb6ac06ad56ae1942eaa5f"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components.pw.toml"
 hash = "ebd146851cff44d4a6723883b3a8173c48defdc9631c3c0444f11d803d43d964"
 metafile = true
@@ -165,6 +170,11 @@ metafile = true
 [[files]]
 file = "mods/cem.pw.toml"
 hash = "f96cb82a047618d6c68b63c94d645f21cb473d0c9a549814cf2ced51d44077dc"
+metafile = true
+
+[[files]]
+file = "mods/chalk-fabric.pw.toml"
+hash = "5d239240f8f7139a12ed29f6e3fd09903b92a4c2835b1cc65f3c02b4a47c26d8"
 metafile = true
 
 [[files]]
@@ -210,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/companion-fabric.pw.toml"
 hash = "f42c56d79c08a664297b7beec3a3648375722604e9e5448b260934a9decd3e17"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "b05976f1355cd6d4a747534852701bfc6b0e809b282254ca28996c34199150b2"
 metafile = true
 
 [[files]]
@@ -283,6 +298,11 @@ hash = "e2fada5108909e81413672d7765fb669494c4b67095fe5ccb1080adcd1bb4aa5"
 metafile = true
 
 [[files]]
+file = "mods/earthbounds.pw.toml"
+hash = "865b623c7f8b23eed53a88137871518a19def2b71dcf8619d6d65465ad0452c5"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b6ead35de6b067bff86a6a37cff42644a8b7fa18152f0dae224061bce5cb5283"
 metafile = true
@@ -315,6 +335,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "913dbbf8cb59a3c8f420716c2dc7d21dfd8d3c7ee4ff38522e23fd77c21d79ab"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "f90a5249a04d52aade6b068267d1832123d2d1bd725b18914b96d7c1f13abb77"
 metafile = true
 
 [[files]]
@@ -398,6 +423,16 @@ hash = "f530473f706b36fa15cd1d4f139b8f9e30cff8a2cfb13b4aa872304e405bf933"
 metafile = true
 
 [[files]]
+file = "mods/immersive-weathering.pw.toml"
+hash = "2341e854e93847f1804a90e0fa2cb0fc02ee2e0cb008f643605485ca31f62257"
+metafile = true
+
+[[files]]
+file = "mods/incorporeal-3.pw.toml"
+hash = "6d02db92061825b61c96e99a0aad15ca196ed2aa35759e710165b035f4b6a0e9"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "478b6ae9383167747545ca4aef28d58fac55aef5ed6bfd608e21b1ea24130994"
 metafile = true
@@ -453,8 +488,18 @@ hash = "f1c29cd16da3f49385ece41a7cd73524ef1b723c23db60511e170b3a3ddd5f37"
 metafile = true
 
 [[files]]
+file = "mods/megane.pw.toml"
+hash = "215d4659665992531ed6ade225f60e5f5496a63284d28045cc30b1bf31437afc"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "dc1e0a5583c85af761605383e89898ac311b245258b1ceecadc3ea9e6d703e43"
+metafile = true
+
+[[files]]
+file = "mods/missing-wilds.pw.toml"
+hash = "a2e6169a0a804f8463fc29cba632d0142d4c3df212bc572c352f7d5d2b25b8a0"
 metafile = true
 
 [[files]]
@@ -463,13 +508,48 @@ hash = "070457b97ff8779197d81a55ef4fbeaf4b247e3e526857559b85edd7eb1b7b41"
 metafile = true
 
 [[files]]
+file = "mods/moborigins.pw.toml"
+hash = "070273342376d24b60bbbe28e6a9ec5bfed0cd474f237a28d4802f957fb4a75e"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e5a970c22cef76c15c3c8606ae623bd0f6069b6c1e2501065d5b40cc2bc1a091"
 metafile = true
 
 [[files]]
+file = "mods/more-geodes.pw.toml"
+hash = "4b40c7bbb756410f58c9bd173eece7abe0e86195871064f4a4a16c216a85bb3f"
+metafile = true
+
+[[files]]
+file = "mods/myloot.pw.toml"
+hash = "72a4337981c133f1ff9a0868c770019bf63b90b81a771f5e79752e6d7a64f531"
+metafile = true
+
+[[files]]
+file = "mods/new-infinity-fix.pw.toml"
+hash = "b8d0424707114adedd91f594e49f5b94e6556870df19ba966d940f85f5032115"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "7e7d627b00743f8230974fc713a38ad9548bea0ce69fd4ea323eeffa60b17453"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "ad69fb8be7ae95ef080b3babeaf24aac96b57caa8c2698fad9d8dbeaaa988ff2"
+metafile = true
+
+[[files]]
+file = "mods/origins-additionaladditions-addon.pw.toml"
+hash = "f7a5de30f80c6132b4c8e18fd2cceddb955058f439c599f4d2650847908bb6a1"
+metafile = true
+
+[[files]]
+file = "mods/origins-croptopia-addon.pw.toml"
+hash = "3e78e09ca277c5e94d6b02350292173e12044dce93ee3538eab21655b019b6f0"
 metafile = true
 
 [[files]]
@@ -565,6 +645,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "4318e602f7ebee1d51621b9ef56c661ff7f5766251826a2351cb46298cf6a68b"
+metafile = true
+
+[[files]]
+file = "mods/spoornpacks.pw.toml"
+hash = "d4fe521e11aca8ec9ca3762446aea9d613fad06937cfda686445a82cab0a3e2e"
 metafile = true
 
 [[files]]

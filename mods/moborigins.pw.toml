@@ -1,0 +1,16 @@
+name = "Mob Origins"
+filename = "moborigins-1.8.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SXwBmSQG/versions/v1.8.1/moborigins-1.8.1.jar"
+hash-format = "sha1"
+hash = "b52013ccec893864a3a689f744de2ebcf035b9a5"
+
+[update]
+[update.modrinth]
+mod-id = "SXwBmSQG"
+version = "PbIaAPwS"
+[update.curseforge]
+file-id = 3752009
+project-id = 449974

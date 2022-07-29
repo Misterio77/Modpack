@@ -1,0 +1,13 @@
+name = "Origins - Croptopia Addon"
+filename = "origins-croptopia-addon-1.18-v1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X4zKaWPd/versions/1.18-1.1/origins-croptopia-addon-1.18-v1.1.jar"
+hash-format = "sha1"
+hash = "50cdda8e9305d4b85b9acd33a20675d94e4c4d7d"
+
+[update]
+[update.modrinth]
+mod-id = "X4zKaWPd"
+version = "yQqlPc3M"

@@ -1,0 +1,16 @@
+name = "Incorporeal 3"
+filename = "Incorporeal-3-fabric-1.18.2-4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tA5dpqNv/versions/4-fabric-1.18.2/Incorporeal-3-fabric-1.18.2-4.jar"
+hash-format = "sha1"
+hash = "92c414badb67b6f9d531a5a7e27cf6c8ecde498f"
+
+[update]
+[update.modrinth]
+mod-id = "tA5dpqNv"
+version = "f33vW15P"
+[update.curseforge]
+file-id = 3848245
+project-id = 616485

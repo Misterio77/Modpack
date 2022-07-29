@@ -22,7 +22,22 @@ Mudanças de mods:
         - Better strongholds
         - Bridges
         - Extras
-    - 
+    - Can I Mine This Block?
+    - Chalk
+    - Cosmetic Armor
+    - Earthbounds
+    - Entity Texture Features
+    - Immersive Weathering
+    - Incorporeal 3
+    - Megane
+    - Missing Wilds
+    - Mob Origins
+    - More Geodes
+    - My Loot
+    - New Infinity Fix
+    - Not Enough Crashes
+    - Origins: additional additions addon
+    - Origins: croptopia addon
 - Remoções:
     - Debugify, problema com EMI e GUI do criativo (https://github.com/isXander/Debugify/issues/109)
 
