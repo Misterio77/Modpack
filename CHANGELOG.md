@@ -38,6 +38,7 @@ Mudanças de mods:
     - Not Enough Crashes
     - Origins: additional additions addon
     - Origins: croptopia addon
+    - Advancements Debug
 - Remoções:
     - Debugify, problema com EMI e GUI do criativo (https://github.com/isXander/Debugify/issues/109)
 
