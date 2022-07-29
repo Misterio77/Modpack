@@ -2,5 +2,6 @@
 /*.zip
 /*.mrpack
 /*.lock
-LICENSE
 README.md
+/CHANGELOG.md
+/LICENSE
