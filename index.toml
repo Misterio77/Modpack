@@ -17,6 +17,10 @@ file = "config/yosbr/config/illuminations.properties"
 hash = "21d3b1f2e32da8d7a72f2d1a75cbbf7b9724bc77031c0f289572c49d2df5dcc0"
 
 [[files]]
+file = "config/yosbr/config/mostructures-config-v5.json5"
+hash = "c4550214e7e638eb8742372942776570a63a52f90765b20f5276b8383c3f0cf3"
+
+[[files]]
 file = "config/yosbr/options.amecsapi.txt"
 hash = "5509f1a3d4aad5bc2f0824d398f9bb987c78fd06a77763c0d931af4fc14a1b40"
 
