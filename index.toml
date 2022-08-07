@@ -237,8 +237,8 @@ hash = "8a7f9b89033609f0abc0a988db246507464ea566d484362e0ef07941eee7a1d2"
 metafile = true
 
 [[files]]
-file = "mods/create.pw.toml"
-hash = "99162575c5d8ca0127790fd88e662722e41984fc60745d4ac29faa05d681a6dd"
+file = "mods/create-fabric.pw.toml"
+hash = "8d483434d18a7b22cb22aa8326ca8a0ea22758e34ae19c0b4d74dd4274789f16"
 metafile = true
 
 [[files]]
