@@ -5,6 +5,10 @@ file = "config/yosbr/config/bclib/main.json"
 hash = "096999177d162440511f64bfb9fc67a2631749c9307daf4e0cae87bb246b99b0"
 
 [[files]]
+file = "config/yosbr/config/bclib/server.json"
+hash = "9a9fbd47c349a928ae721800e672c90c353ca873858e22a19c68e5fbcd205105"
+
+[[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "c791bc8aa016b6de6b311baaef5a98acb54782b7a501d707799ae5e7888922ed"
 
