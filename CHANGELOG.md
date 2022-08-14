@@ -1,4 +1,4 @@
-# 0.2.0 (ainda não lançado)
+# 0.2.0
 
 Mudanças de mods:
 - Adições:
