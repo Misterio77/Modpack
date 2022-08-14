@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://files.misterio.me/create-fabric-1.18.2-0.5.0c-710.jar"
 hash-format = "sha256"
-hash = "9ebba6fc44c9616e5f6f94bdc7c590526b80e49ac03f8a2e2cb0fbb4a22ed3b0
+hash = "9ebba6fc44c9616e5f6f94bdc7c590526b80e49ac03f8a2e2cb0fbb4a22ed3b0"
 
 # [update]
 # [update.modrinth]
