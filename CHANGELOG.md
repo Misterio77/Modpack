@@ -39,6 +39,7 @@ Mudanças de mods:
     - Origins: additional additions addon
     - Origins: croptopia addon
     - Advancements Debug
+    - SquareMap
 - Remoções:
     - Debugify, problema com EMI e GUI do criativo (https://github.com/isXander/Debugify/issues/109)
 
