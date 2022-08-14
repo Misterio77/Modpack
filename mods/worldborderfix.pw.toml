@@ -1,0 +1,16 @@
+name = "Multi World Borders"
+filename = "multiworldborders-1.4-fabric-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M7MroYMU/versions/1.4/multiworldborders-1.4-fabric-1.18.2.jar"
+hash-format = "sha1"
+hash = "4c88afea6c5afa19f385ff4358ba9ec46301c611"
+
+[update]
+[update.modrinth]
+mod-id = "M7MroYMU"
+version = "joT8zxw5"
+[update.curseforge]
+file-id = 3722950
+project-id = 443120

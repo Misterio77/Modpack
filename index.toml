@@ -716,6 +716,11 @@ hash = "50f4ba14adf2485bd98e7c0e29a72bf5a9b7ea1f2fe375bc7fde16abd0eb3601"
 metafile = true
 
 [[files]]
+file = "mods/worldborderfix.pw.toml"
+hash = "ed8fb8371d6cd6bfe7eff7af4ae49513c588f4ca961009add5c9d76deeb723ca"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "bf9da0a25d89a1fa7bb2e3a150a2828a38b34136edae92d7c47fbfc6471e1d9b"
 metafile = true
