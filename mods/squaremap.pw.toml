@@ -1,0 +1,13 @@
+name = "squaremap"
+filename = "squaremap-fabric-mc1.18.2-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "097b35eadb3638c9605d51a6c81eb4c839ca2127"
+url = "https://edge.forgecdn.net/files/3838/107/squaremap-fabric-mc1.18.2-1.1.4.jar"
+
+[update]
+[update.curseforge]
+file-id = 3838107
+project-id = 579715
