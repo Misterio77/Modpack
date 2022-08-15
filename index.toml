@@ -41,6 +41,10 @@ file = "config/yosbr/shaderpacks/ComplementaryShaders_v4.5.1.zip.txt"
 hash = "af178d51b79b69e06c762329b2ba9541d9dfa68b084774e02a8e8eada23cffa8"
 
 [[files]]
+file = "global_packs/required_data/disable-join-books.zip"
+hash = "e261696843908a484e58bbb878c1825e257a35b9b77539adadf14bd60f75317b"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "16676ff4fc497ea19f8587febdf1c28de8eaecd279fae34b6a3ecd14d7bd535d"
 metafile = true
@@ -413,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "5f2d68c626fe48e7f45d034c45389a65241dd9af5cd8455370e0bc8c53fc9432"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "6706d6785f265d84c28ab25bef4e83fca60a3184d99126ce112e3a05b108ae2f"
 metafile = true
 
 [[files]]
