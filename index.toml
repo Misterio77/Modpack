@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/apollos-additional-structures.pw.toml"
-hash = "a0ed6db4ca06ebcb0fea81b9349d03ccc1337051e39968409d5e43cee2571ed2"
+hash = "27d0d8147a6ac56171b215ce9058e848636e2f284bf2edbf350ef6141f1b90ce"
 metafile = true
 
 [[files]]

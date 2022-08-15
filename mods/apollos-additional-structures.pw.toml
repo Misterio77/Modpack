@@ -11,3 +11,6 @@ hash = "fc95c1553be69e8901a219115026b1c9b55816b1"
 [update.modrinth]
 mod-id = "xum0aBUy"
 version = "m57Obyay"
+[update.curseforge]
+file-id = 3866599
+project-id = 639971
