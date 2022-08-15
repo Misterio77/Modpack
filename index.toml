@@ -42,7 +42,7 @@ hash = "af178d51b79b69e06c762329b2ba9541d9dfa68b084774e02a8e8eada23cffa8"
 
 [[files]]
 file = "global_packs/required_data/disable-join-books.zip"
-hash = "e261696843908a484e58bbb878c1825e257a35b9b77539adadf14bd60f75317b"
+hash = "fe78e45b9c40edb3523d002e62ca0ad5c0cf6e23503ca1711581b79446d3d6a6"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "d16ad5625096ed2f3953a5eb59c7fd54b78ced0fa7ebc91c29fb6886d1e0caff"
+hash = "1e6312a80052139b773ffaf34ccda193a4432109cf7d1f9cd4edb9d8c40634dc"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/apollos-additional-structures.pw.toml"
-hash = "196bae8ab0877a760d6d35b5b5e7a19cc4742937a0028394b69e6d5a443fbb55"
+hash = "a0ed6db4ca06ebcb0fea81b9349d03ccc1337051e39968409d5e43cee2571ed2"
 metafile = true
 
 [[files]]
@@ -676,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/squaremap.pw.toml"
-hash = "54231b40a5229c9dadc70a40f830826f2a05c3da3dade640b859dbf055e4fe7d"
+hash = "487b7284d36ea2bfcffdcf82f90cd5738b0d0f1e238850386a6251d693921b80"
 metafile = true
 
 [[files]]

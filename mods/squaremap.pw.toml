@@ -1,6 +1,6 @@
 name = "squaremap"
 filename = "squaremap-fabric-mc1.18.2-1.1.4.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

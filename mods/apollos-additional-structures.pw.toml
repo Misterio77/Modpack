@@ -1,6 +1,6 @@
 name = "Apollo's Additional Structures"
 filename = "aas-1.19_1.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/xum0aBUy/versions/1.2-backport/aas-1.19_1.2.jar"
