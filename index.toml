@@ -215,6 +215,11 @@ hash = "256d7b0b6a9fbf4d8a9166d4764e13f8fb64da9ffc28fd0476cad7881fbabaa3"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "d05155884102533d5fcf2ecb062ef90fd4af16929b73ea37a4717d35336fc53f"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "568e075405ea25ee0428ef4e186d94f2ed461d40e62955ee8efdb64979f1b1fb"
 metafile = true
