@@ -1,3 +1,10 @@
+# 0.2.1
+Mudanças de mods:
+- Adições:
+    - World Border Fix (p/ definir bordas diferentes por mundo)
+- Remoções
+    - Things (dando problema na geração de mundo)
+
 # 0.2.0
 
 Mudanças de mods:
