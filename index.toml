@@ -41,6 +41,10 @@ file = "config/yosbr/shaderpacks/ComplementaryShaders_v4.5.1.zip.txt"
 hash = "af178d51b79b69e06c762329b2ba9541d9dfa68b084774e02a8e8eada23cffa8"
 
 [[files]]
+file = "global_packs/required_data/disable-carboranea-broadcast.zip"
+hash = "6f3732f6fb8bccd83026447b91a5809965e2305c5d92b6bf75a061376334eef4"
+
+[[files]]
 file = "global_packs/required_data/disable-join-books.zip"
 hash = "fe78e45b9c40edb3523d002e62ca0ad5c0cf6e23503ca1711581b79446d3d6a6"
 
