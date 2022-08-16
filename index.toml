@@ -13,6 +13,14 @@ file = "config/yosbr/config/betterf3.json"
 hash = "c791bc8aa016b6de6b311baaef5a98acb54782b7a501d707799ae5e7888922ed"
 
 [[files]]
+file = "config/yosbr/config/byg/biomepedia.json5"
+hash = "d9b7c4d1b5445c9b34618918f94f190e2f9dd5312ae1e241e11ac796edf7e31c"
+
+[[files]]
+file = "config/yosbr/config/byg/client/biomepedia_inventory.json5"
+hash = "a5e9cbd9ce3331dfad0c79129d7a38fbc724806549da3087b866f784966f4c33"
+
+[[files]]
 file = "config/yosbr/config/emi.css"
 hash = "84f5264613df44d05b493194fdcbc71fe75809598e78aa6bb407ae42c1159bc1"
 
