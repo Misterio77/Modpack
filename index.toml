@@ -388,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "f43fda1b9e5e73fd8a7b4da28138bd315d60d0f77073e046fb93756eb205dced"
+hash = "48a5eee64f71c6ba8872510c3bc8830041063609f076f7ad6ea89e5a1db23951"
 metafile = true
 
 [[files]]
