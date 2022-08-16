@@ -42,7 +42,7 @@ hash = "2a82deed42824b0bbe6bac056091bc5385cc862bcc781dd2b8a72430a0dd32da"
 
 [[files]]
 file = "config/yosbr/servers.dat"
-hash = "8acf9e5a2ac9ce242c257a10e868b7f917e56c7eba687d2f53818893316f46d5"
+hash = "a804291698d589cf256faa580cd36d9514ee3453ff105c03b8c3b8d2bed9fe74"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryShaders_v4.5.1.zip.txt"
