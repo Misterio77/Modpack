@@ -1,16 +1,16 @@
 name = "OpenMCSkins"
-filename = "openmcskins-1.3.7-optimized.jar"
+filename = "openmcskins-1.3.6-optimized.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/c8eIXMRR/versions/1.3.7/openmcskins-1.3.7-optimized.jar"
+url = "https://cdn.modrinth.com/data/c8eIXMRR/versions/1.3.6/openmcskins-1.3.6-optimized.jar"
 hash-format = "sha1"
-hash = "f3f9b88f524cd50b54744d5a9ec61e21be678edd"
+hash = "1a426f36dd617c032fc2e9ae198a972ab524f2c6"
 
 [update]
 [update.modrinth]
 mod-id = "c8eIXMRR"
-version = "mpWJuyfm"
+version = "ikLlz1lI"
 [update.curseforge]
-file-id = 3910812
+file-id = 3856770
 project-id = 620015
