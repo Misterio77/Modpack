@@ -1,0 +1,16 @@
+name = "EasyAuth"
+filename = "easyauth-mc1.18.2-3.0.0-6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/aZj58GfX/versions/3.0.0-6/easyauth-mc1.18.2-3.0.0-6.jar"
+hash-format = "sha1"
+hash = "c1f35480ebd1fda345fd42305c844aac63ebc708"
+
+[update]
+[update.modrinth]
+mod-id = "aZj58GfX"
+version = "DLZghxwy"
+[update.curseforge]
+file-id = 3821695
+project-id = 503866

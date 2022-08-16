@@ -1,3 +1,37 @@
+# 0.2.4
+Mudanças de mods:
+- Adições:
+    - Ledger
+    - OpenMCSkins
+    - EasyAuth
+    - LuckPerms
+- Remoções:
+    - Kappa (substituido por OpenMCSkins)
+    - Fabric Tailor (substituido por OpenMCSkins)
+Outras mudanças:
+- Desabilitar broadcast do achievment do carboranea
+- Remover botão do livro do byg
+- Arrumar lista de servers padrão
+
+# 0.2.3
+Mudanças de mods:
+- Adições:
+    - Chunky
+- Remoções:
+    - Not Enough Crashes
+Outras mudanças:
+- Instalar squaremap apenas no server
+- Instalar Additional Structures no client também
+- Instalar Alternate Current no client também
+- Adicionar cf no aa e ac
+
+# 0.2.2
+Mudanças de mods:
+- Atualizações:
+    - C2ME
+Outras mudanças:
+- Tentar desabilitar livros do byg e hexcasting ao entrar
+
 # 0.2.1
 Mudanças de mods:
 - Adições:

@@ -337,6 +337,11 @@ hash = "865b623c7f8b23eed53a88137871518a19def2b71dcf8619d6d65465ad0452c5"
 metafile = true
 
 [[files]]
+file = "mods/easyauth.pw.toml"
+hash = "a3a58f3e578f91cf13af10db5b6d769bc055e74ae174cc0a6ce5549176dbda7e"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b6ead35de6b067bff86a6a37cff42644a8b7fa18152f0dae224061bce5cb5283"
 metafile = true
@@ -404,11 +409,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "925083235fd9e5ccb85e199bac7b0e5b195d92e3af93e363e488036f399f9c7d"
-metafile = true
-
-[[files]]
-file = "mods/fabrictailor.pw.toml"
-hash = "b03b7a45bad191d3b7d0e960d631f7d2832f2c9d542d5ce7d3d300b7eac1db76"
 metafile = true
 
 [[files]]
@@ -487,11 +487,6 @@ hash = "5a844f65a8cfd01608ad3438704454df4bae0b7feafb13b072946bb40898ccbf"
 metafile = true
 
 [[files]]
-file = "mods/kappa.pw.toml"
-hash = "e2e458b397b88df43e2c26d27612fe23d774a4af830287dedc830f4e0bb6ecfc"
-metafile = true
-
-[[files]]
 file = "mods/kiln.pw.toml"
 hash = "a6df38e13d72d3222ed15bd3c54a063fe98ce55c64a07cbf0acbba610a158a4a"
 metafile = true
@@ -524,6 +519,11 @@ metafile = true
 [[files]]
 file = "mods/lovely_snails.pw.toml"
 hash = "7c18881076d0e0b0c6e6da1825887ce0f910990d1a2d34bf8d4bce6508ce13d0"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "65e366623c12a987ea26e1182898a1f9ab3bf5874b0b44b5cbf85e136a88182a"
 metafile = true
 
 [[files]]
@@ -574,6 +574,11 @@ metafile = true
 [[files]]
 file = "mods/new-infinity-fix.pw.toml"
 hash = "b8d0424707114adedd91f594e49f5b94e6556870df19ba966d940f85f5032115"
+metafile = true
+
+[[files]]
+file = "mods/openmcskins.pw.toml"
+hash = "0b3926fc121d18d97bcc4d6b3036b546e0833e25cd2efa40fdf741a6362f4d0c"
 metafile = true
 
 [[files]]
