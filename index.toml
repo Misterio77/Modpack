@@ -387,11 +387,6 @@ hash = "e31ee3df8fc771b613bc27833208730f1039110509b0d02267cd011c215f7920"
 metafile = true
 
 [[files]]
-file = "mods/extended-drawers.pw.toml"
-hash = "48a5eee64f71c6ba8872510c3bc8830041063609f076f7ad6ea89e5a1db23951"
-metafile = true
-
-[[files]]
 file = "mods/extra-origins.pw.toml"
 hash = "4db124f7600b41b5e683744a33d05476090003152d5705dcf399f3af1ae32715"
 metafile = true

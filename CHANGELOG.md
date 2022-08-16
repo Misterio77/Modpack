@@ -1,3 +1,8 @@
+# 0.2.5
+Mudanças de mods:
+- Remoções:
+    - Extended Drawers (causando MUITO lag)
+
 # 0.2.4
 Mudanças de mods:
 - Adições:
