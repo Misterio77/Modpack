@@ -1,13 +1,13 @@
-name = "Trinket Shulker Boxes (Fabric)"
-filename = "trinketshulkerboxes-fabric-2.0.1-1.18.1.jar"
+name = "Shulker Box Slot (Fabric)"
+filename = "trinketshulkerboxes-fabric-2.0.2-1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "26c418a2a947fb98eb8ac07da307f7411142d430"
-url = "https://edge.forgecdn.net/files/3568/536/trinketshulkerboxes-fabric-2.0.1-1.18.1.jar"
+hash = "9a0b55793aaa3598f18170d536095a1fe34a03fc"
+url = "https://edge.forgecdn.net/files/3935/239/trinketshulkerboxes-fabric-2.0.2-1.18.2.jar"
 
 [update]
 [update.curseforge]
-file-id = 3568536
+file-id = 3935239
 project-id = 395570
