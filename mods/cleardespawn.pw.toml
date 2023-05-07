@@ -4,7 +4,7 @@ side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "2dafad51e4ee153a884fe7cd12b928a5b2339f42"
+hash = "3390baeaf6a9fe8f6e6120dbfc11cf231abf14dd"
 url = "https://cdn.modrinth.com/data/yoJJjRRE/versions/21w40a-1.1.3/cleardespawn-21w40a-1.1.3.jar"
 
 [update.curseforge]
