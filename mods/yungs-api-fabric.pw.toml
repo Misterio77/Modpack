@@ -1,12 +1,12 @@
 name = "YUNG's API (Fabric)"
-filename = "YungsApi-1.18.2-Fabric-2.0.8.jar"
+filename = "YungsApi-1.18.2-Fabric-2.2.9.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4e96599a16b1eba26e2e712d5f282780dca58876"
-url = "https://edge.forgecdn.net/files/3779/089/YungsApi-1.18.2-Fabric-2.0.8.jar"
+hash = "dc2c84d687d4602947e43888c3cd14187497babb"
+url = "https://edge.forgecdn.net/files/4428/185/YungsApi-1.18.2-Fabric-2.2.9.jar"
 
 [update.curseforge]
-file-id = 3779089
+file-id = 4428185
 project-id = 421649

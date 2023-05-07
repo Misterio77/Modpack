@@ -1,12 +1,12 @@
-name = "Super Duper Vanilla Shaderpack"
-filename = "SuperDuperVanilla.zip"
+name = "Complementary Reimagined"
+filename = "ComplementaryReimagined_r2.1.zip"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "414c72a8d3cfbba0d1ec06b104f175163710cc78"
-url = "https://edge.forgecdn.net/files/3865/984/SuperDuperVanilla.zip"
+hash = "27edba4caa204e7131869eb3d5bcbcf1225b849a"
+url = "https://edge.forgecdn.net/files/4504/977/ComplementaryReimagined_r2.1.zip"
 
 [update.curseforge]
-file-id = 3865984
+file-id = 4504977
 project-id = 627557
