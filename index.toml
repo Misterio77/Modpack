@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/beenfo.pw.toml"
-hash = "e21424891925067daf7ad9b4c3634101002253787817609389977ac8c33e641d"
+hash = "9e580143701c86bdb52d7d878992d11516b87102b6257b8e9525e3b32e558b4c"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/cleardespawn.pw.toml"
-hash = "7822a85faabe30ccb91535db9cfaf4af564e50f9378c3263b53e56cbdfd55ad5"
+hash = "d1045f44b546bca48aa71006a1b4c64ce8bf0aef8ff3ca4bfaa2da90cff97a5f"
 metafile = true
 
 [[files]]
