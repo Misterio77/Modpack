@@ -349,11 +349,6 @@ hash = "e399c1fdbef77b8ac32efcb39ecbc32f0e4f706a020cafdb9aef97ac790f3c49"
 metafile = true
 
 [[files]]
-file = "mods/easyauth.pw.toml"
-hash = "f363a353107cfbd26837f2f930192c76e3ecee4b59d3eae0a1cae9ab849013a8"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml"
 hash = "80eae18f4b39b45ae77a321a2b9daaa98dc6108250fc40d1c7462b59964cb005"
 metafile = true
@@ -514,11 +509,6 @@ hash = "0e1cc716450291a4ab2e547847eeba51f4df7850933a0fb0f080981ca5e21a9f"
 metafile = true
 
 [[files]]
-file = "mods/ledger.pw.toml"
-hash = "7fdd265fd27bfec459c5f1db3d26943484356de24f9f642b1b539228aafa26d3"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "b40a57c970311a7f99415158d0ae204c2ab7e3e03b6894ef35e914a456253e19"
 metafile = true
@@ -526,11 +516,6 @@ metafile = true
 [[files]]
 file = "mods/lovely_snails.pw.toml"
 hash = "95692de70882abb8ebaf1e382603f6daba83236970b46e028495969d9098d2d6"
-metafile = true
-
-[[files]]
-file = "mods/luckperms.pw.toml"
-hash = "63f2e90e4b8fa4a424f0a424f1ae2167e0dc0a02601531e595ea938da238ba00"
 metafile = true
 
 [[files]]
@@ -701,11 +686,6 @@ metafile = true
 [[files]]
 file = "mods/spoornpacks.pw.toml"
 hash = "c307a713693f0d87f0ef301d77d44c70de4dfb78e4fe2e69071c8b4a692a97cb"
-metafile = true
-
-[[files]]
-file = "mods/squaremap.pw.toml"
-hash = "1b42e98fad28e40a0137721c5553c44051a795c3b67cbc6c375351f111492bbc"
 metafile = true
 
 [[files]]
