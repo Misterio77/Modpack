@@ -1,16 +1,16 @@
 name = "Alternate Current"
-filename = "alternate-current-mc1.18-1.5.0.jar"
+filename = "alternate-current-mc1.18-1.4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/r0v8vy1s/versions/ER3cM1dr/alternate-current-mc1.18-1.5.0.jar"
 hash-format = "sha1"
-hash = "e3b3fdd91108328c64d51a7ad6e5460f76b3f956"
+hash = "dfe5da57746177e4236b9ccafa91f9a85a7a0d3d"
+url = "https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.18-1.4.0/alternate-current-mc1.18-1.4.0.jar"
 
-[update]
-[update.curseforge]
-file-id = 4406078
-project-id = 548115
 [update.modrinth]
 mod-id = "r0v8vy1s"
-version = "ER3cM1dr"
+version = "gUosQHld"
+
+[update.curseforge]
+file-id = 3842538
+project-id = 548115

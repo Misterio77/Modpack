@@ -1,16 +1,16 @@
 name = "Global Packs"
-filename = "global_packs-fabric-1.18.2-1.12.3_fabric.jar"
+filename = "global_packs-fabric-1.18.2-1.12.2.1_fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/4MkNWArr/global_packs-fabric-1.18.2-1.12.3_fabric.jar"
 hash-format = "sha1"
-hash = "8d38d1d1f5ecbadb208118a771b2765db9591e7a"
+hash = "be66619442624aee06d5c494a3136eea197d544b"
+url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/1.12.2.1_fabric/global_packs-fabric-1.18.2-1.12.2.1_fabric.jar"
 
-[update]
-[update.curseforge]
-file-id = 3965519
-project-id = 317134
 [update.modrinth]
 mod-id = "NRLPy2mk"
-version = "4MkNWArr"
+version = "YbcIVI4A"
+
+[update.curseforge]
+file-id = 3818437
+project-id = 317134

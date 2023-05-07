@@ -1,12 +1,12 @@
 name = "Hex Casting"
-filename = "hexcasting-fabric-1.18.2-0.9.6.jar"
+filename = "hexcasting-fabric-1.18.2-0.9.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f03b22f52ef8fa20ddcd3baa394db84cc365e7eb"
-url = "https://edge.forgecdn.net/files/4074/344/hexcasting-fabric-1.18.2-0.9.6.jar"
+hash = "adc611c844e963581bb7adee73ba011496c82257"
+url = "https://edge.forgecdn.net/files/3850/251/hexcasting-fabric-1.18.2-0.9.1.jar"
 
 [update.curseforge]
-file-id = 4074344
+file-id = 3850251
 project-id = 569849

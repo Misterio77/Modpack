@@ -1,16 +1,16 @@
 name = "🪵 Twigs"
-filename = "twigs-fabric-1.1.3-patch2+1.18.2.jar"
+filename = "twigs-fabric-1.1.3+legacy.1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RG50cUrX/versions/1.1.3-patch2%2B1.18.2/twigs-fabric-1.1.3-patch2%2B1.18.2.jar"
 hash-format = "sha1"
-hash = "5470569fc70021ae2affb11096f0a80f560869fe"
+hash = "544eda62266a8c6f2a4c41a97e2aa36423817094"
+url = "https://cdn.modrinth.com/data/RG50cUrX/versions/1.1.3%2Blegacy.1.18.2/twigs-fabric-1.1.3%2Blegacy.1.18.2.jar"
 
-[update]
-[update.curseforge]
-file-id = 4160178
-project-id = 496913
 [update.modrinth]
 mod-id = "RG50cUrX"
-version = "4ytUmjmn"
+version = "ItKxI7jS"
+
+[update.curseforge]
+file-id = 3673260
+project-id = 496913

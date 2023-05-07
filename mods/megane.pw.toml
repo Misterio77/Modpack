@@ -1,16 +1,16 @@
 name = "megane"
-filename = "megane-7.10.0.jar"
+filename = "megane-7.8.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZNk5S5U6/versions/OZGOCyth/megane-7.10.0.jar"
 hash-format = "sha1"
-hash = "2a4ef61107273693c6ebc91c1452d9f01423db8d"
+hash = "1f61e961b030ec117258c16ea83020bb3118cc61"
+url = "https://cdn.modrinth.com/data/ZNk5S5U6/versions/7.8.0/megane-7.8.0.jar"
 
-[update]
-[update.curseforge]
-file-id = 4407340
-project-id = 408118
 [update.modrinth]
 mod-id = "ZNk5S5U6"
-version = "OZGOCyth"
+version = "LsxZ0bY7"
+
+[update.curseforge]
+file-id = 3881951
+project-id = 408118
