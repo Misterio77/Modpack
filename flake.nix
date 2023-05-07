@@ -15,7 +15,7 @@
       devShells = rec {
         modpack = pkgs.mkShell {
           name = "modpack";
-          nativeBuildInputs = with pkgs; [ packwiz unzip zip ];
+          nativeBuildInputs = with pkgs; [ packwiz unzip zip yq ];
         };
         default = modpack;
       };
