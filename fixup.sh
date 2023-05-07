@@ -49,7 +49,14 @@ function fixup_file() {
     echo "$output" > "$file"
 }
 
-for f in **/*.pw.toml; do
+if [ $# -eq 0 ]; then
+    echo "No file specified. Fixing all .pw.toml files."
+    files=(**/*.pw.toml)
+else
+    files="$@"
+fi
+
+for f in "${files[@]}"; do
     fixup_file "$f"
 done
 
