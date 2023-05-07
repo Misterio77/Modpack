@@ -7,7 +7,6 @@ hash-format = "sha1"
 hash = "afc507e93908f0f27fcf68f333370264c8d49716"
 url = "https://edge.forgecdn.net/files/3814/359/bclib-1.4.7.jar"
 
-[update]
 [update.curseforge]
 file-id = 3814359
 project-id = 495191

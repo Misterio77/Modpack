@@ -7,10 +7,10 @@ hash-format = "sha1"
 hash = "0d16602536e14c7e5179be410872c7ecf4cb65e0"
 url = "https://cdn.modrinth.com/data/kXygSBVI/versions/5.1.2/traverse-5.1.2.jar"
 
-[update]
 [update.curseforge]
 file-id = 3931414
 project-id = 308777
+
 [update.modrinth]
 mod-id = "kXygSBVI"
 version = "pHE3MPJY"

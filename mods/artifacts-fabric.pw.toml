@@ -7,7 +7,6 @@ hash-format = "sha1"
 hash = "40584a664ffd65e18b5f8b84fd2f243336d867d8"
 url = "https://edge.forgecdn.net/files/3756/730/artifacts-7.0.3+fabric.jar"
 
-[update]
 [update.curseforge]
 file-id = 3756730
 project-id = 401236

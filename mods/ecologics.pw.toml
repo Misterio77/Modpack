@@ -7,7 +7,6 @@ hash-format = "sha1"
 hash = "43b723bf9546e538a8057be230f0471aed849607"
 url = "https://edge.forgecdn.net/files/3939/723/ecologics-fabric-1.18.2-1.7.9.jar"
 
-[update]
 [update.curseforge]
 file-id = 3939723
 project-id = 570463

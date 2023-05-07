@@ -7,10 +7,10 @@ hash-format = "sha1"
 hash = "87eadef889dbe737a3afbcb40523b848cd4bbae3"
 url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/9WXP1AHX/appliedenergistics2-11.1.6.jar"
 
-[update]
 [update.curseforge]
 file-id = 3944774
 project-id = 223794
+
 [update.modrinth]
 mod-id = "XxWD5pD3"
 version = "9WXP1AHX"

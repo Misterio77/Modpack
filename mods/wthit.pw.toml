@@ -7,10 +7,10 @@ hash-format = "sha1"
 hash = "d76d0bc3d6c4da98d5d146d40d181b680525bc01"
 url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/7Vy9Amaj/wthit-fabric-4.13.2.jar"
 
-[update]
 [update.curseforge]
 file-id = 3944292
 project-id = 440979
+
 [update.modrinth]
 mod-id = "6AQIaxuO"
 version = "7Vy9Amaj"

@@ -7,7 +7,6 @@ hash-format = "sha1"
 hash = "4689aac2ef282bc3aeb058f8b5720355e4820c24"
 url = "https://edge.forgecdn.net/files/3868/888/Oh_The_Biomes_You'll_Go-fabric-1.18.2-1.4.2.jar"
 
-[update]
 [update.curseforge]
 file-id = 3868888
 project-id = 391378

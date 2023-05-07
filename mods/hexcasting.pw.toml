@@ -7,7 +7,6 @@ hash-format = "sha1"
 hash = "adc611c844e963581bb7adee73ba011496c82257"
 url = "https://edge.forgecdn.net/files/3850/251/hexcasting-fabric-1.18.2-0.9.1.jar"
 
-[update]
 [update.curseforge]
 file-id = 3850251
 project-id = 569849

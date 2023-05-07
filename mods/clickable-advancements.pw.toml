@@ -7,7 +7,6 @@ hash-format = "sha1"
 hash = "ca251335f69351c5416e97801967b4e3e63aebb2"
 url = "https://edge.forgecdn.net/files/3791/079/clickadv-fabric-2.6.jar"
 
-[update]
 [update.curseforge]
 file-id = 3791079
 project-id = 511733

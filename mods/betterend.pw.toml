@@ -7,7 +7,6 @@ hash-format = "sha1"
 hash = "ec44636a77d9549fc7108051fb6ac7523c0dec57"
 url = "https://edge.forgecdn.net/files/3814/370/better-end-1.1.1.jar"
 
-[update]
 [update.curseforge]
 file-id = 3814370
 project-id = 413596

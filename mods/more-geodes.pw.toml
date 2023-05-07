@@ -3,14 +3,14 @@ filename = "more-geodes-1.4.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oGmBThKh/versions/1.4.2/more-geodes-1.4.2.jar"
 hash-format = "sha1"
 hash = "685d9409db69a1656640d72faa8abc2e1dc6246f"
+url = "https://cdn.modrinth.com/data/oGmBThKh/versions/1.4.2/more-geodes-1.4.2.jar"
 
-[update]
 [update.modrinth]
 mod-id = "oGmBThKh"
 version = "2agkMY8D"
+
 [update.curseforge]
 file-id = 3788979
 project-id = 437712

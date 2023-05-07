@@ -7,10 +7,10 @@ hash-format = "sha1"
 hash = "ec15113323dae3739b2145ac0d93b77456fadbc2"
 url = "https://cdn.modrinth.com/data/pOQTcQmj/versions/G0DqCthC/charm-fabric-1.18.2-4.2.2.jar"
 
-[update]
 [update.curseforge]
 file-id = 3942556
 project-id = 318872
+
 [update.modrinth]
 mod-id = "pOQTcQmj"
 version = "G0DqCthC"

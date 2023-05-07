@@ -7,10 +7,10 @@ hash-format = "sha1"
 hash = "390d38828d1050ef38e16011654dc14603b25295"
 url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/Epqrq6OM/sodium-extra-0.4.8%2Bmc1.18.2-build.56.jar"
 
-[update]
 [update.curseforge]
 file-id = 3943098
 project-id = 447673
+
 [update.modrinth]
 mod-id = "PtjYWJkn"
 version = "Epqrq6OM"

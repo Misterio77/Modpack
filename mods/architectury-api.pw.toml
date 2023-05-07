@@ -5,12 +5,12 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "6cabe5458d7bd5006c650555767941a9c6ff05d1"
-url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.9.83+fabric/architectury-4.9.83-fabric.jar"
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.9.83%2Bfabric/architectury-4.9.83-fabric.jar"
 
-[update]
 [update.curseforge]
 file-id = 3929414
 project-id = 419699
+
 [update.modrinth]
 mod-id = "lhGA9TYQ"
 version = "BCLEdiJm"

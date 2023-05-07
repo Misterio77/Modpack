@@ -3,14 +3,14 @@ filename = "earthbounds-1.18.2-1.1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kCMvEtYh/versions/1.18.2-1.1.4/earthbounds-1.18.2-1.1.4.jar"
 hash-format = "sha1"
 hash = "c489c0a1034b2f00e474bd923004e11aa8f47634"
+url = "https://cdn.modrinth.com/data/kCMvEtYh/versions/1.18.2-1.1.4/earthbounds-1.18.2-1.1.4.jar"
 
-[update]
 [update.modrinth]
 mod-id = "kCMvEtYh"
 version = "vtARCQs8"
+
 [update.curseforge]
 file-id = 3880039
 project-id = 574411

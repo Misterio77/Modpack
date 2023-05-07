@@ -7,10 +7,10 @@ hash-format = "sha1"
 hash = "81cb9829dbabad1623ec0189e12e394e91153255"
 url = "https://cdn.modrinth.com/data/tA5dpqNv/versions/tzKVrPz9/Incorporeal-3-fabric-1.18.2-5.jar"
 
-[update]
 [update.curseforge]
 file-id = 3944432
 project-id = 616485
+
 [update.modrinth]
 mod-id = "tA5dpqNv"
 version = "tzKVrPz9"

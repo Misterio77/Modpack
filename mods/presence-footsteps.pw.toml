@@ -3,14 +3,14 @@ filename = "PresenceFootsteps-1.5.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rcTfTZr3/versions/1.5.1/PresenceFootsteps-1.5.1.jar"
 hash-format = "sha1"
 hash = "cb2d3e9ec90597df161f90fb5c12bce47f99fce5"
+url = "https://cdn.modrinth.com/data/rcTfTZr3/versions/1.5.1/PresenceFootsteps-1.5.1.jar"
 
-[update]
 [update.modrinth]
 mod-id = "rcTfTZr3"
 version = "31QS6G6Z"
+
 [update.curseforge]
 file-id = 3851656
 project-id = 334259

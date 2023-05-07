@@ -14,9 +14,9 @@ function fixup_file() {
     file="$1"
     echo >&2 ''
     echo >&2 "File: $file"
-    if modrinth_ver="$(tomlq -re '.update.modrinth?.version' < "$file")"; then
+    if modrinth_ver="$(tomlq -re '.update.modrinth.version' < "$file")"; then
         echo >&2 "Has modrinth ($modrinth_ver)"
-        url="$(tomlq -re '.download.url' < "$file")"
+        url="$(tomlq -r '.download.url' < "$file")"
         if has_prefix "$url" "https://cdn.modrinth.com"; then
             echo >&2 "Already has modrinth url"
             output="$(cat "$file")"
@@ -31,9 +31,9 @@ function fixup_file() {
                 output="$(cat "$file")"
             fi
         fi
-    elif curseforge_fid="$(tomlq -re '.update.curseforge?."file-id"' < "$file")"; then
+    elif curseforge_fid="$(tomlq -re '.update.curseforge."file-id"' < "$file")"; then
         echo >&2 "Has curseforge ($curseforge_fid)"
-        url="$(tomlq -re '.download.url' < "$file")"
+        url="$(tomlq -r '.download.url' < "$file")"
         if has_prefix "$url" "https://edge.forgecdn.net"; then
             echo >&2 "Already has curseforge url"
             output="$(cat "$file")"

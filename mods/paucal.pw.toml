@@ -7,7 +7,6 @@ hash-format = "sha1"
 hash = "839e6633d18a0c419153b67b909befb51b40c8cf"
 url = "https://edge.forgecdn.net/files/3831/429/paucal-fabric-1.18.2-0.4.7.jar"
 
-[update]
 [update.curseforge]
 file-id = 3831429
 project-id = 597824

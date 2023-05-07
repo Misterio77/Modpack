@@ -7,7 +7,6 @@ hash-format = "sha1"
 hash = "9eaaebff2b6a73c4e6818583c34ac3f0a4e65075"
 url = "https://edge.forgecdn.net/files/3945/976/Pehkui-3.4.1+1.14.4-1.19.2.jar"
 
-[update]
 [update.curseforge]
 file-id = 3945976
 project-id = 319596

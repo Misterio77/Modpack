@@ -7,7 +7,6 @@ hash-format = "sha1"
 hash = "71acdd8141a4faee130d2a5be43acf3af8878226"
 url = "https://edge.forgecdn.net/files/3827/244/eden-ring-0.5.2.jar"
 
-[update]
 [update.curseforge]
 file-id = 3827244
 project-id = 546590

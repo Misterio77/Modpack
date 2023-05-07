@@ -3,14 +3,14 @@ filename = "Chunky-1.2.164.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fALzjamp/versions/1.2.164/Chunky-1.2.164.jar"
 hash-format = "sha1"
 hash = "c936401a30394972b102d62a2553927aa79bd501"
+url = "https://cdn.modrinth.com/data/fALzjamp/versions/1.2.164/Chunky-1.2.164.jar"
 
-[update]
 [update.modrinth]
 mod-id = "fALzjamp"
 version = "JJMpSOeW"
+
 [update.curseforge]
 file-id = 3579660
 project-id = 433175

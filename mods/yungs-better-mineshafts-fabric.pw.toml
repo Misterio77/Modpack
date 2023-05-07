@@ -7,7 +7,6 @@ hash-format = "sha1"
 hash = "805c4af8db4605d27fa9110e5dce82858afe494d"
 url = "https://edge.forgecdn.net/files/3855/187/YungsBetterMineshafts-1.18.2-Fabric-2.2.jar"
 
-[update]
 [update.curseforge]
 file-id = 3855187
 project-id = 373591

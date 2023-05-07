@@ -7,7 +7,6 @@ hash-format = "sha1"
 hash = "c401501ca7d3b7f82e4a0b85ef879ee0cbad1c45"
 url = "https://edge.forgecdn.net/files/3836/331/goldenhoppers-1.3.3.jar"
 
-[update]
 [update.curseforge]
 file-id = 3836331
 project-id = 442268

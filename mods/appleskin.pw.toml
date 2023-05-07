@@ -7,10 +7,10 @@ hash-format = "sha1"
 hash = "bca8d17a4baf9cfa84a36965147bd615bffd539e"
 url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.18.2-2.4.1/appleskin-fabric-mc1.18.2-2.4.1.jar"
 
-[update]
 [update.curseforge]
 file-id = 3927566
 project-id = 248787
+
 [update.modrinth]
 mod-id = "EsAfCjCV"
 version = "T7UGls0O"

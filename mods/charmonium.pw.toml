@@ -3,14 +3,14 @@ filename = "charmonium-fabric-1.18.2-4.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/bpii4Xsa/versions/4.1.0+1.18.2/charmonium-fabric-1.18.2-4.1.0.jar"
 hash-format = "sha1"
 hash = "4b8568ff73b81e4c9c3b23653e2339c86c38e7be"
+url = "https://cdn.modrinth.com/data/bpii4Xsa/versions/4.1.0%2B1.18.2/charmonium-fabric-1.18.2-4.1.0.jar"
 
-[update]
 [update.modrinth]
 mod-id = "bpii4Xsa"
 version = "rzkLIRCX"
+
 [update.curseforge]
 file-id = 3829808
 project-id = 378696

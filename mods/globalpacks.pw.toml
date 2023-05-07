@@ -3,14 +3,14 @@ filename = "global_packs-fabric-1.18.2-1.12.2.1_fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/1.12.2.1_fabric/global_packs-fabric-1.18.2-1.12.2.1_fabric.jar"
 hash-format = "sha1"
 hash = "be66619442624aee06d5c494a3136eea197d544b"
+url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/1.12.2.1_fabric/global_packs-fabric-1.18.2-1.12.2.1_fabric.jar"
 
-[update]
 [update.modrinth]
 mod-id = "NRLPy2mk"
 version = "YbcIVI4A"
+
 [update.curseforge]
 file-id = 3818437
 project-id = 317134

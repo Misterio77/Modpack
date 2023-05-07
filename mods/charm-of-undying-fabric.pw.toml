@@ -7,7 +7,6 @@ hash-format = "sha1"
 hash = "56301e4e056ad0f2c15caec951f327b3c708ae5b"
 url = "https://edge.forgecdn.net/files/3865/295/trinketofundying-fabric-2.0.2-1.18.2.jar"
 
-[update]
 [update.curseforge]
 file-id = 3865295
 project-id = 395547

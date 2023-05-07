@@ -3,14 +3,14 @@ filename = "dashloader-4.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/4.0.0+1.18/dashloader-4.0.0.jar"
 hash-format = "sha1"
 hash = "3c1878393470e694bf36b7af03d7b538448da38b"
+url = "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/4.0.0%2B1.18/dashloader-4.0.0.jar"
 
-[update]
 [update.modrinth]
 mod-id = "ZfQ3kTvR"
 version = "Av1aoyKG"
+
 [update.curseforge]
 file-id = 3820019
 project-id = 472772

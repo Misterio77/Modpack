@@ -7,10 +7,10 @@ hash-format = "sha1"
 hash = "39cfb7f9c18f4d04f4734cea9794205a00fb0f5d"
 url = "https://cdn.modrinth.com/data/pfjLUfGv/versions/1.18.2-435-fabric/Botania-1.18.2-435-FABRIC.jar"
 
-[update]
 [update.curseforge]
 file-id = 3936566
 project-id = 421839
+
 [update.modrinth]
 mod-id = "pfjLUfGv"
 version = "I1sdolxI"

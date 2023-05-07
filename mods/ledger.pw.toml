@@ -3,14 +3,14 @@ filename = "ledger-1.2.4.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.4/ledger-1.2.4.jar"
 hash-format = "sha1"
 hash = "55845e0ab71515e27f4c7c77524a094b6189c10e"
+url = "https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.4/ledger-1.2.4.jar"
 
-[update]
 [update.modrinth]
 mod-id = "LVN9ygNV"
 version = "BSpZzH6c"
+
 [update.curseforge]
 file-id = 3669397
 project-id = 491137

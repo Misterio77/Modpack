@@ -3,14 +3,14 @@ filename = "blur-2.4.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NK39zBp2/versions/2.4.1/blur-2.4.1.jar"
 hash-format = "sha1"
 hash = "4e9eb6718bf1aae922f7abd6fc93be1db49e5a4c"
+url = "https://cdn.modrinth.com/data/NK39zBp2/versions/2.4.1/blur-2.4.1.jar"
 
-[update]
 [update.modrinth]
 mod-id = "NK39zBp2"
 version = "xetUzR7z"
+
 [update.curseforge]
 file-id = 3548709
 project-id = 393563

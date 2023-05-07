@@ -7,7 +7,6 @@ hash-format = "sha1"
 hash = "389533c960b5ed56ec66e0814abad438b60a782f"
 url = "https://edge.forgecdn.net/files/3945/268/geckolib-fabric-1.18-3.0.58.jar"
 
-[update]
 [update.curseforge]
 file-id = 3945268
 project-id = 388172
