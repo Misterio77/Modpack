@@ -21,6 +21,10 @@ file = "config/yosbr/config/byg/client/biomepedia_inventory.json5"
 hash = "a5e9cbd9ce3331dfad0c79129d7a38fbc724806549da3087b866f784966f4c33"
 
 [[files]]
+file = "config/yosbr/config/charm.toml"
+hash = "0218df1948ed2e48bf3a797ea74904baf6c1a77e7e9736c2aeefc8f0dc13e1cf"
+
+[[files]]
 file = "config/yosbr/config/emi.css"
 hash = "84f5264613df44d05b493194fdcbc71fe75809598e78aa6bb407ae42c1159bc1"
 
@@ -71,11 +75,6 @@ hash = "cb1fd6982c2d2b03753803f7fafd905786e000450db832b92d1ca9eddc7b0eb1"
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "5c1d9d3cbdfe25495ccdc225c7798c4aa89490acb1cecfe61774f1a1b823c192"
-metafile = true
-
-[[files]]
-file = "mods/addadd.pw.toml"
-hash = "0c588aec67468711d5c9a0a01d4f2cc929916476749aa59ff7c41166d3534325"
 metafile = true
 
 [[files]]
