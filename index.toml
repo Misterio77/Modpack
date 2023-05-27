@@ -463,11 +463,6 @@ hash = "facc7b6daa06ddfe52d63616fada64f122d0c0045a3c3f75f47e819480b0b426"
 metafile = true
 
 [[files]]
-file = "mods/immersive-weathering.pw.toml"
-hash = "aabc797e207fc0f951fc5b9a0831681424c80f38ada393505e40e00423879e5e"
-metafile = true
-
-[[files]]
 file = "mods/incorporeal-3.pw.toml"
 hash = "99dedf65983e28884ebf91ac7820d5f2ba139691f043a00c84a6ab7652a7a0e6"
 metafile = true
