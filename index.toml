@@ -638,11 +638,6 @@ hash = "a6f826cb52c0f813f2aeece3b59a33c412df922501ed94924067597b9db472a3"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "ec31efa321a261eb8bf2fcc9a7f6f5f197373571570ce849608d3bcbaf2655fe"
-metafile = true
-
-[[files]]
 file = "mods/smooth-swapping.pw.toml"
 hash = "3421a2c23a7664882790d6d3fdcb8ddecee268c98e245439630a2a61d22a256f"
 metafile = true
