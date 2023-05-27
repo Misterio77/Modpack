@@ -198,11 +198,6 @@ hash = "b3972441b7feb845c7e03bcb7bf640ad67ed837e79bb7cc34c4284c9c1a7c2b6"
 metafile = true
 
 [[files]]
-file = "mods/cardinal-components.pw.toml"
-hash = "90daa64e96e1cec95f2ed6edd28245beac468330cb15413bb530c068d1b7821d"
-metafile = true
-
-[[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "c75b74dd1691453f51bdee164d29f722676e4b888bf77cf2da74f18b36590f9b"
 metafile = true
@@ -450,11 +445,6 @@ metafile = true
 [[files]]
 file = "mods/here-be-no-dragons.pw.toml"
 hash = "04cd0bcce2afd12a8dc25d7e1cb2e56b5a63f1ffaa1e14ab0320af3bf40303b4"
-metafile = true
-
-[[files]]
-file = "mods/hexcasting.pw.toml"
-hash = "e344c798b32b8ff483fe4dcc193c832020e2e93a6a07e83a1d259ecdf047fea9"
 metafile = true
 
 [[files]]
