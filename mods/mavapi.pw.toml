@@ -1,0 +1,13 @@
+name = "More Axolotl Variants API"
+filename = "mavapi-1.0.1-mc1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t4Ybtys2/versions/l1guFcLO/mavapi-1.0.1-mc1.18.2.jar"
+hash-format = "sha1"
+hash = "1efe7a4109c88862628be12058cf75312eaf358b"
+
+[update]
+[update.modrinth]
+mod-id = "t4Ybtys2"
+version = "l1guFcLO"

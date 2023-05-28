@@ -1,16 +1,16 @@
 name = "Wandering Collector"
-filename = "wanderingcollector-1.1.2+mc1.18.2.jar"
+filename = "wanderingcollector-1.2.1+mc1.18.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/enYiOcBu/versions/LxEjAAHI/wanderingcollector-1.2.1%2Bmc1.18.2.jar"
 hash-format = "sha1"
-hash = "456e52e0fdb9394fb6685f8b85e5e6144c7ea812"
-url = "https://cdn.modrinth.com/data/enYiOcBu/versions/1.1.2%2Bmc1.18.2/wanderingcollector-1.1.2%2Bmc1.18.2.jar"
+hash = "b309010ff8a35f6f474407fdd34decaddaf20d50"
 
-[update.modrinth]
-mod-id = "enYiOcBu"
-version = "BTFeuqxI"
-
+[update]
 [update.curseforge]
 file-id = 3717999
 project-id = 443476
+[update.modrinth]
+mod-id = "enYiOcBu"
+version = "LxEjAAHI"
