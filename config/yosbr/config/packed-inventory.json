@@ -1,0 +1,87 @@
+{
+  "defaultTooltipConfig": {
+    "showWhenEmpty": true,
+    "rows": -1,
+    "columns": -1,
+    "usePredefinedColor": false,
+    "enable": true,
+    "compact": false
+  },
+  "tooltips": {
+    "minecraft:shulker_box": {
+      "showWhenEmpty": true,
+      "rows": -1,
+      "columns": -1,
+      "usePredefinedColor": false,
+      "enable": true,
+      "compact": false
+    },
+    "minecraft:ender_chest": {
+      "syncInterval": 5000,
+      "showWhenEmpty": true,
+      "rows": -1,
+      "columns": -1,
+      "usePredefinedColor": false,
+      "enable": true,
+      "compact": false
+    },
+    "minecraft:filled_map": {
+      "size": 128,
+      "enable": false,
+      "compact": false
+    }
+  },
+  "defaultValidationConfig": {
+    "suppressValidationInCreative": true,
+    "requiresPlayerOnGround": false,
+    "enable": true
+  },
+  "validation": {
+    "minecraft:shulker_box": {
+      "suppressValidationInCreative": true,
+      "requiresPlayerOnGround": false,
+      "enable": true
+    },
+    "minecraft:ender_chest": {
+      "requiresSilkTouch": false,
+      "suppressValidationInCreative": true,
+      "requiresPlayerOnGround": false,
+      "enable": true
+    },
+    "minecraft:crafting_table": {
+      "suppressValidationInCreative": true,
+      "requiresPlayerOnGround": false,
+      "enable": true
+    },
+    "minecraft:cartography_table": {
+      "suppressValidationInCreative": true,
+      "requiresPlayerOnGround": false,
+      "enable": true
+    },
+    "minecraft:stonecutter": {
+      "suppressValidationInCreative": true,
+      "requiresPlayerOnGround": false,
+      "enable": true
+    },
+    "minecraft:loom": {
+      "suppressValidationInCreative": true,
+      "requiresPlayerOnGround": false,
+      "enable": true
+    },
+    "minecraft:smithing_table": {
+      "suppressValidationInCreative": true,
+      "requiresPlayerOnGround": false,
+      "enable": true
+    },
+    "minecraft:grindstone": {
+      "suppressValidationInCreative": true,
+      "requiresPlayerOnGround": false,
+      "enable": true
+    },
+    "minecraft:anvil": {
+      "suppressValidationInCreative": true,
+      "requiresPlayerOnGround": false,
+      "enable": true
+    }
+  }
+}

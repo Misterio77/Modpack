@@ -33,12 +33,16 @@ file = "config/yosbr/config/mostructures-config-v5.json5"
 hash = "c4550214e7e638eb8742372942776570a63a52f90765b20f5276b8383c3f0cf3"
 
 [[files]]
+file = "config/yosbr/config/packed-inventory.json"
+hash = "e0b4e183f774bb10439ad90d70ff06225b09f13876e0e603ec08d3418e5bbf78"
+
+[[files]]
 file = "config/yosbr/options.amecsapi.txt"
 hash = "59e68606eda114f862eaca883b28c6155779498c89a32d14b0583d128e51bb59"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "2a82deed42824b0bbe6bac056091bc5385cc862bcc781dd2b8a72430a0dd32da"
+hash = "5868cf69466917bd1a5470249742d57344f92c78e83e9a97630d11f3427efc05"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -576,6 +580,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "c10d0df3f7987d75f1b1ab44f3d48898ed114ddfbf0e87da5060ddd84fda7dbf"
+metafile = true
+
+[[files]]
+file = "mods/packed-inventory.pw.toml"
+hash = "e4550e13926229cb318c9cd7acf2fae7e21e96c6837a7794fc6cd95213f62ca1"
 metafile = true
 
 [[files]]
