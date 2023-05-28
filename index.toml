@@ -379,6 +379,11 @@ hash = "dc1e74491cc9881b1573dbbef1d4e0bb7b0bae3a3c2134e9d43e503452765208"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "8a6b6a3fdbcf8b0af57f755034b2b913f357ab66cfd8462e6c8369c20ceef8fc"
+metafile = true
+
+[[files]]
 file = "mods/extra-origins.pw.toml"
 hash = "f35d09d64751bd4c9f14c1b294876b68c3eeab91dface3c1270124dd89e7973b"
 metafile = true
@@ -431,6 +436,11 @@ metafile = true
 [[files]]
 file = "mods/golden-hoppers.pw.toml"
 hash = "a5d3f4e9e59ee0f1d70845208d71152c60b2e4b9ae66bfbd47b66ab5cbd7c19a"
+metafile = true
+
+[[files]]
+file = "mods/hephaestus.pw.toml"
+hash = "36045377004d89da48269d62a506731b0d6e8e5a1366cdf517c0d7961c62d71d"
 metafile = true
 
 [[files]]
