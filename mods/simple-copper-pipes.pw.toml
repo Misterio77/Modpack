@@ -1,0 +1,13 @@
+name = "Simple Copper Pipes"
+filename = "lunade-copper-pipe-1.12a-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9r4ZkgSN/versions/fQzVGfa5/lunade-copper-pipe-1.12a-1.18.2.jar"
+hash-format = "sha1"
+hash = "53c046c7e120652aca829f3522c7b607e6a85152"
+
+[update]
+[update.modrinth]
+mod-id = "9r4ZkgSN"
+version = "fQzVGfa5"
