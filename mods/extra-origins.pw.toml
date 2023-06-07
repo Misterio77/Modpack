@@ -3,10 +3,11 @@ filename = "extraorigins-1.18-12.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/XWEESDPe/versions/VooW9Iii/extraorigins-1.18-12.jar"
 hash-format = "sha1"
 hash = "8e1a14e72fd1b9d6dcdadd561d66f00c8e50ec8f"
-url = "https://edge.forgecdn.net/files/3878/950/extraorigins-1.18-12.jar"
 
-[update.curseforge]
-file-id = 3878950
-project-id = 398419
+[update]
+[update.modrinth]
+mod-id = "XWEESDPe"
+version = "VooW9Iii"

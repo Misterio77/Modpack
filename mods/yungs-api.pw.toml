@@ -1,0 +1,13 @@
+name = "YUNG's API"
+filename = "YungsApi-1.18.2-Fabric-2.2.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ua7DFN59/versions/i0Z1vSK9/YungsApi-1.18.2-Fabric-2.2.9.jar"
+hash-format = "sha1"
+hash = "dc2c84d687d4602947e43888c3cd14187497babb"
+
+[update]
+[update.modrinth]
+mod-id = "Ua7DFN59"
+version = "i0Z1vSK9"

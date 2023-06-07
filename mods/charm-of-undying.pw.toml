@@ -1,0 +1,13 @@
+name = "Charm of Undying"
+filename = "trinketofundying-fabric-2.0.2-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b5GyyYkp/versions/T3yNnmRC/trinketofundying-fabric-2.0.2-1.18.2.jar"
+hash-format = "sha1"
+hash = "56301e4e056ad0f2c15caec951f327b3c708ae5b"
+
+[update]
+[update.modrinth]
+mod-id = "b5GyyYkp"
+version = "T3yNnmRC"

@@ -1,0 +1,13 @@
+name = "Elytra Slot"
+filename = "elytratrinket-fabric-3.0.0-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mSQF1NpT/versions/sMgiWQoW/elytratrinket-fabric-3.0.0-1.18.1.jar"
+hash-format = "sha1"
+hash = "70a2317527da7712416f17207ce4a21c272f7a3f"
+
+[update]
+[update.modrinth]
+mod-id = "mSQF1NpT"
+version = "sMgiWQoW"

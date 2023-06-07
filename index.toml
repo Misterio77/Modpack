@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomesyougo.pw.toml"
-hash = "61542f99525db362b8c96826d540ffd76895d8bbb3c9ebd21ef79c31b106c78a"
+hash = "ee9eff41327993190f1ecc723c1b7985c3ebc3627ae726a339cac6ebec6eb009"
 metafile = true
 
 [[files]]
@@ -213,13 +213,13 @@ hash = "6140dc427116f7007a9fc61f6176d668425df7343825b41056d36b67f99ea491"
 metafile = true
 
 [[files]]
-file = "mods/chalk-fabric.pw.toml"
-hash = "8ae155dcb572371de7e6f4b0acc8ee133587cb5408a866fdfb28ec90dd63a5eb"
+file = "mods/chalk.pw.toml"
+hash = "9d964354c8312bf29747e4ad32fb3967f868b8ada1de92ed6b25742eb87ea3e8"
 metafile = true
 
 [[files]]
-file = "mods/charm-of-undying-fabric.pw.toml"
-hash = "abc8c3e006956688c7db0e28d1206aa3cd4cc5100e1504fc00459aaaee01b09c"
+file = "mods/charm-of-undying.pw.toml"
+hash = "9e90fb1548e4843852c908ac661106d771829ff46241f5aafb2bd7ef315108ca"
 metafile = true
 
 [[files]]
@@ -230,11 +230,6 @@ metafile = true
 [[files]]
 file = "mods/charmonium.pw.toml"
 hash = "971c63adeb2ded10c0cf3d70cf258a21d1ca9da510365e7d1c4f67b94f65fb51"
-metafile = true
-
-[[files]]
-file = "mods/chimes.pw.toml"
-hash = "f1685113ef5e1815049b38339c4da3c9ce4b59484d54b23e12ef80f6f46c7d4d"
 metafile = true
 
 [[files]]
@@ -268,8 +263,8 @@ hash = "77bd9b9ae2bf78481ba939cc78e5e4c0d9528516aa791305eecb39eb56e13125"
 metafile = true
 
 [[files]]
-file = "mods/companion-fabric.pw.toml"
-hash = "7ddace44e1d5a6591915a1a816b47d5d3169e5dc24a99750c3daef6c7265f1e3"
+file = "mods/companion.pw.toml"
+hash = "b50ed33e38c0b29ed75e854139b9f0eb5d7027663d0b3969ec23572a40084244"
 metafile = true
 
 [[files]]
@@ -294,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
-hash = "fa6c4a00de217b2569a706d0a297c51729c013a9b4ae345b8f5a652c3eb15b09"
+hash = "b84fb943e3237b4a4e5f5691a561b7176ef736c5c3d2b35051b60d982420ac2c"
 metafile = true
 
 [[files]]
@@ -369,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecologics.pw.toml"
-hash = "d508ea9a27928960b8aa022bd8a8e599bcc9343c9842a81d664168688732588d"
+hash = "a6192539918e5d33cfcc90e17833d7fe9dea4ffdc6da3e82ebf053d5a658e482"
 metafile = true
 
 [[files]]
@@ -378,8 +373,8 @@ hash = "bd4566bb5a0b322461105d2e2a9fce46ef36517a8805d60b901ddb1e75a05755"
 metafile = true
 
 [[files]]
-file = "mods/elytra-slot-fabric.pw.toml"
-hash = "139a41a669b161a60b7e5195c10ad2dfbbb72000f63d75fb7d79e33b1cd30a67"
+file = "mods/elytra-slot.pw.toml"
+hash = "95a897c15bc101bd30c7d0b96e16f5684c4dd39990c7709c87bb552285aaf319"
 metafile = true
 
 [[files]]
@@ -404,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-origins.pw.toml"
-hash = "f35d09d64751bd4c9f14c1b294876b68c3eeab91dface3c1270124dd89e7973b"
+hash = "ad2041510668398d5ad5126cbc7dc1f190e5e5fb09062b223d55c3c077cf1c8f"
 metafile = true
 
 [[files]]
@@ -444,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "1fe45cc7742292c8f1101fb98d5c3265d95ce2321f19af6f4701ce84e3ee9fbf"
+hash = "ecdc6da68522e33a1084b9fd81cfe38bd69de178bb6668899764e4a7ac115d13"
 metafile = true
 
 [[files]]
@@ -569,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/myloot.pw.toml"
-hash = "b9d3c9477a3b0ba1431ab5717d1101c158870c261f460ef123eb36c1d1c4589b"
+hash = "2a1e993a79ac0a569333a36aa2fc5b67202299730d3bff3eeafc1f3280a9ea4b"
 metafile = true
 
 [[files]]
@@ -629,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "b7d8794bcb62c4b27744133a55a95d2400279ece38c7534215c77f6c95ce07bd"
+hash = "8475894e2eeeaef0b12f4209b7c6da565d2d23b866437f23c70361160af17114"
 metafile = true
 
 [[files]]
@@ -683,6 +678,11 @@ hash = "4944229ed27eb1d5bf5681525961aab70bf0c8eb4e84ff597377f84c07c8dbf3"
 metafile = true
 
 [[files]]
+file = "mods/shulker-box-slot.pw.toml"
+hash = "83b4b67f477ac042ca43eef89b6624ec0aa25881fbd55a4d7fe1228ec9cee9a6"
+metafile = true
+
+[[files]]
 file = "mods/simple-copper-pipes.pw.toml"
 hash = "4b7d36013ae680d6a5cd76b7130fda02f75d05918273aa16ebbf778a093175c8"
 metafile = true
@@ -724,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/spoornpacks.pw.toml"
-hash = "c307a713693f0d87f0ef301d77d44c70de4dfb78e4fe2e69071c8b4a692a97cb"
+hash = "89c58315cefcc787dbbcc8ebc574e3f7ceebaba7843ee4f688a429ab7b3f96eb"
 metafile = true
 
 [[files]]
@@ -748,8 +748,8 @@ hash = "3fd617d7ca4954cd09d0da304ebe9a6174b3b56f3f735205f9401372f10c924d"
 metafile = true
 
 [[files]]
-file = "mods/terrablender-fabric.pw.toml"
-hash = "f7d7f22946196da866c8be53d2af4ee5b6cdabce4dc173a04f1bd3f96c742629"
+file = "mods/terrablender.pw.toml"
+hash = "464efd679154b3d311531b55d0bba57568a4bd6066f03b930635a308d7e3547b"
 metafile = true
 
 [[files]]
@@ -760,11 +760,6 @@ metafile = true
 [[files]]
 file = "mods/traverse.pw.toml"
 hash = "b032c59fb9586829fc4477fef5d7a191699b13f97d78fbaf8c2b0185d95a63cc"
-metafile = true
-
-[[files]]
-file = "mods/trinket-shulker-boxes-fabric.pw.toml"
-hash = "67b7a3f6a1ba29edb7a9060d916734380802a49aab0fc9d3ad5c665fd6575183"
 metafile = true
 
 [[files]]
@@ -780,6 +775,11 @@ metafile = true
 [[files]]
 file = "mods/wandering-collector.pw.toml"
 hash = "4a99baa403e2b9658641b7593fa40558a1d713940be812347f93efcf1d27fd60"
+metafile = true
+
+[[files]]
+file = "mods/windchimes.pw.toml"
+hash = "9c43e2729f64ac838434d547c4a33d50b16b4c13c6365658a4408a37a32d10eb"
 metafile = true
 
 [[files]]
@@ -803,8 +803,8 @@ hash = "583f3054ac9f83b3fc93509fd5c1db87c1dcbd888b3171d0ae4004fc00dc6c83"
 metafile = true
 
 [[files]]
-file = "mods/yungs-api-fabric.pw.toml"
-hash = "0bfb434e8ad6f5ccb20997b5b3891b415da1db680572838b0828242f97b7238c"
+file = "mods/yungs-api.pw.toml"
+hash = "3028925b4ed1889ca28101abdbc994c95e3e9967232a76dc80363bf9dda3977d"
 metafile = true
 
 [[files]]
@@ -833,11 +833,11 @@ hash = "76450bc2228419c9cf592f8a5d29d2cfa4e928f23af2152f982b88cfe78dae31"
 metafile = true
 
 [[files]]
-file = "shaderpacks/complementary-shaders.pw.toml"
-hash = "36b7058248cbe058c2e2b22e3fb5db21b65b42a060db05de1fee079550e75673"
+file = "shaderpacks/complementary-shaders-v4.pw.toml"
+hash = "62907b0a98b3ea75b6ab6efb694685751abbd19aa21826f03de0ab4bc4012fbe"
 metafile = true
 
 [[files]]
-file = "shaderpacks/superdupervanilla-shader.pw.toml"
-hash = "a39c373a3e2b79ca2c6b9c7a5fce7ee79b775d10f2b49d2928a55abacded4c3a"
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "a5ed01e32d65dbd67e9573e1575874284a0e3c64aebbbbb872230d8be9fd0e8e"
 metafile = true

@@ -3,10 +3,11 @@ filename = "myloot-2.1.4-1.18.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/kHc6jKsv/versions/YLXkX3IV/myloot-2.1.4-1.18.jar"
 hash-format = "sha1"
 hash = "97bd7fcf736096d41d82f51cc9bb56516265653e"
-url = "https://edge.forgecdn.net/files/3923/264/myloot-2.1.4-1.18.jar"
 
-[update.curseforge]
-file-id = 3923264
-project-id = 582459
+[update]
+[update.modrinth]
+mod-id = "kHc6jKsv"
+version = "YLXkX3IV"

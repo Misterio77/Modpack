@@ -3,10 +3,11 @@ filename = "spoornpacks-4.2.3-1.18.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/40ytxGF2/versions/Ots2Jujj/spoornpacks-4.2.3-1.18.2.jar"
 hash-format = "sha1"
 hash = "62cc5ff780f5b285521da25487711516302b097f"
-url = "https://edge.forgecdn.net/files/3911/242/spoornpacks-4.2.3-1.18.2.jar"
 
-[update.curseforge]
-file-id = 3911242
-project-id = 577442
+[update]
+[update.modrinth]
+mod-id = "40ytxGF2"
+version = "Ots2Jujj"
