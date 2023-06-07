@@ -1,40 +1,40 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/config/appliedenergistics2/common.json"
+file = "config/appliedenergistics2/common.json"
 hash = "564dcba699bb4bcea1a71d4af01c052c84a8063c46d4161e36082ecc18225c86"
 
 [[files]]
-file = "config/yosbr/config/bclib/main.json"
+file = "config/bclib/main.json"
 hash = "096999177d162440511f64bfb9fc67a2631749c9307daf4e0cae87bb246b99b0"
 
 [[files]]
-file = "config/yosbr/config/bclib/server.json"
+file = "config/bclib/server.json"
 hash = "9a9fbd47c349a928ae721800e672c90c353ca873858e22a19c68e5fbcd205105"
+
+[[files]]
+file = "config/byg/biomepedia.json5"
+hash = "d9b7c4d1b5445c9b34618918f94f190e2f9dd5312ae1e241e11ac796edf7e31c"
+
+[[files]]
+file = "config/byg/client/biomepedia_inventory.json5"
+hash = "a5e9cbd9ce3331dfad0c79129d7a38fbc724806549da3087b866f784966f4c33"
+
+[[files]]
+file = "config/charm.toml"
+hash = "9beab163abe0e7d30da902db4bab7088a147fa8f4127312df7326f11a8026038"
+
+[[files]]
+file = "config/mostructures-config-v5.json5"
+hash = "c4550214e7e638eb8742372942776570a63a52f90765b20f5276b8383c3f0cf3"
+
+[[files]]
+file = "config/packed-inventory.json"
+hash = "e0b4e183f774bb10439ad90d70ff06225b09f13876e0e603ec08d3418e5bbf78"
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "c791bc8aa016b6de6b311baaef5a98acb54782b7a501d707799ae5e7888922ed"
-
-[[files]]
-file = "config/yosbr/config/byg/biomepedia.json5"
-hash = "d9b7c4d1b5445c9b34618918f94f190e2f9dd5312ae1e241e11ac796edf7e31c"
-
-[[files]]
-file = "config/yosbr/config/byg/client/biomepedia_inventory.json5"
-hash = "a5e9cbd9ce3331dfad0c79129d7a38fbc724806549da3087b866f784966f4c33"
-
-[[files]]
-file = "config/yosbr/config/charm.toml"
-hash = "9beab163abe0e7d30da902db4bab7088a147fa8f4127312df7326f11a8026038"
-
-[[files]]
-file = "config/yosbr/config/mostructures-config-v5.json5"
-hash = "c4550214e7e638eb8742372942776570a63a52f90765b20f5276b8383c3f0cf3"
-
-[[files]]
-file = "config/yosbr/config/packed-inventory.json"
-hash = "e0b4e183f774bb10439ad90d70ff06225b09f13876e0e603ec08d3418e5bbf78"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"
@@ -47,10 +47,6 @@ hash = "5868cf69466917bd1a5470249742d57344f92c78e83e9a97630d11f3427efc05"
 [[files]]
 file = "config/yosbr/servers.dat"
 hash = "a804291698d589cf256faa580cd36d9514ee3453ff105c03b8c3b8d2bed9fe74"
-
-[[files]]
-file = "config/yosbr/shaderpacks/ComplementaryShaders_v4.5.1.zip.txt"
-hash = "af178d51b79b69e06c762329b2ba9541d9dfa68b084774e02a8e8eada23cffa8"
 
 [[files]]
 file = "global_packs/required_data/disable-carboranea-broadcast/data/earth/advancements/earthbounds/find_carboranea.json"
