@@ -1,3 +1,87 @@
+# 0.2.17
+
+Mudanças de mods:
+- Adições:
+  - Almost Unified
+  - Create Additions
+  - Create Plus
+  - ME Requester
+  - OmniHopper
+  - Polymorph
+  - Roughly Enough Resources
+  - Simple Copper Pipes
+  - Spirit
+  - Things
+  - You're in Grave Danger
+- Remoções:
+  - Illuminations
+- Várias atualizações
+Configurações:
+- Aumentar range do wireless do AE2
+- Desligar totem of preserving do charm
+Mudanças internas:
+- Substituir links do curseforge pelo modrinth, onde possível 
+
+# 0.2.16
+
+Adições de mods:
+- packed-inventory
+
+# 0.2.14
+
+Mudanças de mods:
+- Adições
+  - REI
+- Remoções
+  - EMI
+- Algumas atualizações
+
+# 0.2.13
+
+Remover voice chat
+
+# 0.2.12
+
+Resolver bugs com servidores vanilla
+
+# 0.2.9
+
+Remover mods que só uso no servidor. Vou gerenciar eles separadamente.
+
+# 0.2.7
+
+Atualizar o fabric para 0.14.9
+
+Mudanças de mods:
+- Atualizações:
+  -  ae2
+  -  appleskin
+  -  architectury-api
+  -  biomesyougo
+  -  botania
+  -  charm
+  -  ecologics
+  -  entitytexturefeatures
+  -  geckolib
+  -  incorporeal
+  -  indium
+  -  luckperms
+  -  memoryleakfix
+  -  myloot
+  -  openmcskins
+  -  pehkui
+  -  reeses-sodium-options
+  -  simple-voice-chat
+  -  sodium-extra-pw
+  -  spoornpacks
+  -  traverse
+  -  trinketshulkerboxes
+  -  wthit
+
+Mudanças internas:
+- Organizar datapacks fora de zip
+- Ajeitar links do curseforge
+
 # 0.2.5
 Mudanças de mods:
 - Remoções:
