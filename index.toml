@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/almostunified/unify.json"
+hash = "caf8a13a09503c9c4bb0cc4effad4c7fa3993bcf46983d16cfdfb16769d57e4d"
+
+[[files]]
 file = "config/appliedenergistics2/common.json"
 hash = "564dcba699bb4bcea1a71d4af01c052c84a8063c46d4161e36082ecc18225c86"
 
@@ -337,11 +341,6 @@ metafile = true
 [[files]]
 file = "mods/deepslategenerator.pw.toml"
 hash = "57ac3634330040e245724bfe76afe88fc044a5cbc8b27e3221bd39b73d2c0654"
-metafile = true
-
-[[files]]
-file = "mods/dimensionaldoors.pw.toml"
-hash = "15b2ef7719630be3af98316243f03b33529ce65caeb614bc11cb1e0b58763e0e"
 metafile = true
 
 [[files]]
