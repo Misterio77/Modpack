@@ -25,12 +25,28 @@ file = "config/charm.toml"
 hash = "9beab163abe0e7d30da902db4bab7088a147fa8f4127312df7326f11a8026038"
 
 [[files]]
+file = "config/chunkloaders-common.toml"
+hash = "09b5d1e8390401fac2cb67254aa1b6cd2e8d596db245f396509e77fbe12eda9f"
+
+[[files]]
+file = "config/fwaystones/config.json"
+hash = "02c1dbcbf46b1c92f6a2fc5c97b2e3ea0b60675dae30d5753b63b8a74c9a22ad"
+
+[[files]]
 file = "config/mostructures-config-v5.json5"
 hash = "c4550214e7e638eb8742372942776570a63a52f90765b20f5276b8383c3f0cf3"
 
 [[files]]
 file = "config/packed-inventory.json"
 hash = "e0b4e183f774bb10439ad90d70ff06225b09f13876e0e603ec08d3418e5bbf78"
+
+[[files]]
+file = "config/things.json5"
+hash = "a00f886a81d27b6e32755395ca230ea8476278e974c256b18c61b4f1bcc36803"
+
+[[files]]
+file = "config/yigd.toml"
+hash = "149146911da4b575f69fa856d4402b77b68fa3ecefd9df16dcc2da22cd300809"
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
@@ -116,11 +132,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "c8c80626092e60885dad8e4d09d28c2412d6f3319acf30c05e6854f8551f4f2a"
-metafile = true
-
-[[files]]
-file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "89fe38f93f9f797a299dd8c5d83e0e294ae2240572404ec74e79309e509fba3d"
 metafile = true
 
 [[files]]
@@ -326,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/deepslategenerator.pw.toml"
 hash = "57ac3634330040e245724bfe76afe88fc044a5cbc8b27e3221bd39b73d2c0654"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "15b2ef7719630be3af98316243f03b33529ce65caeb614bc11cb1e0b58763e0e"
 metafile = true
 
 [[files]]

@@ -1,12 +1,12 @@
 name = "Modpack Misterio"
 author = "Misterio <eu@misterio.me>"
-version = "0.2.17"
+version = "0.2.18"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a831b9dbad5fc56c6935373416b24f4689c2dd23bbd566eb1ebe1c3b368f36f8"
+hash = "9929ab5b81dbdbbcf2cb114ef23cb7e8785b24f56e21cb9a100aecee9ccfaa67"
 
 [versions]
 fabric = "0.14.21"

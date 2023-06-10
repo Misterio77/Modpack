@@ -1,3 +1,16 @@
+# 0.2.18
+
+Mods:
+- Adições:
+    - Dimensional Doors
+- Remoções:
+    - AE2 Wireless Terminals
+
+Configurações:
+- Chunk Loaders: Colocar máximo de 100 por jogador
+- Waystones: Ajustar custo de XP, 1 level por 500 blocos, 12 levels entre dimensões
+- Things: 2 ender pearls por uso do displacement tome
+
 # 0.2.17
 
 Mudanças de mods:
