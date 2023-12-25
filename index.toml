@@ -199,6 +199,11 @@ hash = "99a8aa0de37070289f39fb59b73a2266c143a81df1dc163ffba8f391b72c22bd"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "390cc27288410f02b971a540495374ee19f7cef1f46586c2405395eddf4edc5c"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "494829bc77e3587e020ea92723e435573df9ce1bc2f0c4be56440d1e3d340a96"
 metafile = true
