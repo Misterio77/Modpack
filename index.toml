@@ -784,11 +784,6 @@ hash = "13348233b21665b7e78df73c923f66435109529cfb68adc324f844968a1fde1d"
 metafile = true
 
 [[files]]
-file = "mods/twigs.pw.toml"
-hash = "fbff37c2eccc81028551b631f105e13fe12f8dc629909c8aa922d9eac7a68ce1"
-metafile = true
-
-[[files]]
 file = "mods/wandering-collector.pw.toml"
 hash = "4a99baa403e2b9658641b7593fa40558a1d713940be812347f93efcf1d27fd60"
 metafile = true
