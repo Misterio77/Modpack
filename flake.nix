@@ -2,22 +2,18 @@
   description = "Modpack do misterinho";
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-23.11";
     utils.url = "github:numtide/flake-utils";
   };
 
   outputs = { self, nixpkgs, utils }: utils.lib.eachDefaultSystem (system:
     let
-      inherit (builtins) attrValues;
-      pkgs = import nixpkgs { inherit system; };
+      pkgs = nixpkgs.legacyPackages.${system};
     in
-    rec {
-      devShells = rec {
-        modpack = pkgs.mkShell {
-          name = "modpack";
-          nativeBuildInputs = with pkgs; [ packwiz unzip zip yq ];
-        };
-        default = modpack;
+    {
+      devShells.default = pkgs.mkShell {
+        name = "modpack";
+        nativeBuildInputs = with pkgs; [ packwiz unzip zip yq ];
       };
     });
 }
