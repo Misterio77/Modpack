@@ -1,12 +1,12 @@
 name = "Dark Paintings"
-filename = "DarkPaintings-Fabric-1.18.2-10.0.3.jar"
+filename = "DarkPaintings-Fabric-1.18.2-10.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7d0771cc75aa47a68a23419d99b416ded1a09fe4"
-url = "https://edge.forgecdn.net/files/3796/182/DarkPaintings-Fabric-1.18.2-10.0.3.jar"
+hash = "30b430076ce3ed7ed603c82c60121a7b63606f71"
+url = "https://edge.forgecdn.net/files/4357/109/DarkPaintings-Fabric-1.18.2-10.0.4.jar"
 
 [update.curseforge]
-file-id = 3796182
+file-id = 4357109
 project-id = 377281

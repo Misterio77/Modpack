@@ -1,12 +1,12 @@
 name = "Golden Hoppers"
-filename = "goldenhoppers-1.3.3.jar"
+filename = "goldenhoppers-1.3.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c401501ca7d3b7f82e4a0b85ef879ee0cbad1c45"
-url = "https://edge.forgecdn.net/files/3836/331/goldenhoppers-1.3.3.jar"
+hash = "67e828eaf1504363979f66fda417583ab63ad32b"
+url = "https://edge.forgecdn.net/files/4794/637/goldenhoppers-1.3.4.jar"
 
 [update.curseforge]
-file-id = 3836331
+file-id = 4794637
 project-id = 442268
